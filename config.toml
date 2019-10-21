@@ -1,3 +1,4 @@
+baseURL = "https://heuristic-johnson-d1e621.netlify.com/"
 languageCode = "ja-jp"
 title = "Amusement Creators New Website Prototype"
 theme = "ananke"
