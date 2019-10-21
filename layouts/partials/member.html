@@ -1,3 +1,4 @@
+{{ $icon_size := "32px" }}
 <div class="relative w-100 mb4 bg-white nested-copy-line-height">
     <div class="bg-white mb3 pa4 gray overflow-hidden">
       {{ range .Tags }}
@@ -11,5 +12,25 @@
       <div class="nested-links f5 lh-copy nested-copy-line-height">
         {{ .Description | markdownify }}
       </div>
+      <div class="socials">
+          {{ with .SNS.twitter }}
+          <a href="{{ . }}" target="_blank" class="link-transition twitter link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
+            {{ partial "svg/twitter.svg" (dict "size" $icon_size) }}
+            {{- partial "new-window-icon.html" . -}}
+          </a>
+          {{ end }}
+          {{ with .SNS.github }}
+            <a href="{{ . }}" target="_blank" class="link-transition github link dib z-999 pt3 pt0-l mr1" title="Github link" rel="noopener" aria-label="follow on Github——Opens in a new window">
+              {{ partial "svg/github.svg" (dict "size" $icon_size) }}
+              {{- partial "new-window-icon.html" . -}}
+            </a>
+          {{ end }}
+      </div>
+      <style>
+        /* お行儀が悪いので後で別の場所に移す */
+        .socials {
+          padding-top: 1em;
+        }
+      </style>
     </div>
   </div>
