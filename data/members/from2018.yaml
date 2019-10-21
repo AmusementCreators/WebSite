@@ -1,5 +1,8 @@
 - 
-  "Tags": ["Rust", "Swift", "Javascript"]
+  "Tags": 
+    - "Rust"
+    - "Swift"
+    - "Javascript"
   "Name": "Kaisei Yokoyama"
   "Description": "好きな言語は日本語です。"
 -
