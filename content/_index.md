@@ -1,6 +1,6 @@
 ---
 title: "Amusement Creators"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/hero.png'
 description: "筑波大学 ゲーム制作サークル"
 ---
 Amusement Creatorsは2008年より筑波大学で活動している一般学生団体です。

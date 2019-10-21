@@ -3,6 +3,9 @@ languageCode = "ja-jp"
 title = "Amusement Creators New Website Prototype"
 theme = "ananke"
 background_color_class = "bg-white"
+featured_image = "/images/hero.png"
+
+twitter = "https://twitter.com/ac_is_not_am"
 
 [params]
   description = "筑波大学 Amusement Creators"
