@@ -2,3 +2,9 @@ languageCode = "ja-jp"
 title = "Amusement Creators New Website Prototype"
 theme = "ananke"
 background_color_class = "bg-white"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/about/"
