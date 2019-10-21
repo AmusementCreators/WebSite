@@ -3,6 +3,10 @@ title = "Amusement Creators New Website Prototype"
 theme = "ananke"
 background_color_class = "bg-white"
 
+[params]
+  description = "筑波大学 Amusement Creators"
+  images = ["/images/logo.png"]
+
 [menu]
   [[menu.main]]
     name = "About"
