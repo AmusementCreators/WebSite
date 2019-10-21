@@ -3,8 +3,15 @@
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
       {{- .Content -}}
     </section>
-    {{ range .Site.Data.members.from2018 }}
-      {{ partial "member.html" . }}
+    {{ range .Site.Data.members }}
+      {{ with .Year }}
+        <h1 class="flex-none"> {{ . }} 入部</h1>
+      {{ else }}
+        <h1 class="flex-none"> {{ .Title }} </h1>
+      {{ end }}
+      {{ range .Members }}
+        {{ partial "member.html" . }}
+      {{ end }}
     {{ end }}
   </article>
 {{ end }}
