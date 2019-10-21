@@ -1,0 +1,38 @@
+[
+  {
+    "Year": 2018,
+    "Members": [
+      {
+        "Name": "Kaisei Yokoyama",
+        "Tags": ["Rust","Swift","F#","JavaScript"],
+        "Description": "好きな言語は**日本語**です。ケツファイア駆動という先輩の言葉がとても気に入っています。",
+        "SNS": {
+          "Twitter": "https://twitter.com/KaiseiYokoyama",
+          "Github": "https://github.com/KaiseiYokoyama"
+        }
+      },
+      {
+        "Name": "AmCrちゃん",
+        "Description": "強い静的型付けの言語を信奉しています。"
+      }
+    ]
+  },
+  {
+    "Year": 2017,
+    "Members": [
+      {
+        "Name": "JavaScriptくん",
+        "Description": "学習曲線がゆるやかです。"
+      }
+    ]
+  },
+  {
+    "Title": "Legend",
+    "Members": [
+      {
+        "Name": "COBOL爺",
+        "Description": "基幹システムで生きています。"
+      }
+    ]
+  }
+]
