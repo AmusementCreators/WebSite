@@ -16,3 +16,8 @@ twitter = "https://twitter.com/ac_is_not_am"
     name = "About"
     identifier = "about"
     url = "/about/"
+
+  [[menu.main]]
+    name = "Works"
+    identifier = "works"
+    url = "/works/"
