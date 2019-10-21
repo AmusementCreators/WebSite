@@ -5,9 +5,9 @@
         <span class="f6">{{ . }}</span>
       {{ end }}
       <h1 class="f3 near-black">
-        <a href="{{ .URL }}" class="link black dim">
+        <span class="black">
           {{ .Name }}
-        </a>
+        </span>
       </h1>
       <div class="nested-links f5 lh-copy nested-copy-line-height">
         {{ .Description | markdownify }}
