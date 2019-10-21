@@ -20,4 +20,4 @@ twitter = "https://twitter.com/ac_is_not_am"
   [[menu.main]]
     name = "Works"
     identifier = "works"
-    url = "/works/"
+    url = "/post/works/"
