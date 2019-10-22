@@ -23,6 +23,11 @@
       {
         "Name": "JavaScriptくん",
         "Description": "学習曲線がゆるやかです。"
+      },
+      {
+        "Name": "wraikny",
+        "Description": "F#でゲーム制作",
+        "Tags": ["F#", "Rust", "Altseed"]
       }
     ]
   },
