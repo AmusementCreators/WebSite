@@ -13,13 +13,13 @@
         {{ .Description | markdownify }}
       </div>
       <div class="socials">
-          {{ with .SNS.twitter }}
+          {{ with .SNS.Twitter }}
           <a href="{{ . }}" target="_blank" class="link-transition twitter link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
             {{ partial "svg/twitter.svg" (dict "size" $icon_size) }}
             {{- partial "new-window-icon.html" . -}}
           </a>
           {{ end }}
-          {{ with .SNS.github }}
+          {{ with .SNS.Github }}
             <a href="{{ . }}" target="_blank" class="link-transition github link dib z-999 pt3 pt0-l mr1" title="Github link" rel="noopener" aria-label="follow on Github——Opens in a new window">
               {{ partial "svg/github.svg" (dict "size" $icon_size) }}
               {{- partial "new-window-icon.html" . -}}
