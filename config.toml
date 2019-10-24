@@ -19,11 +19,21 @@ hasCJKLanguage = true
     url = "/about/"
 
   [[menu.main]]
-    name = "Works"
-    identifier = "works"
-    url = "/post/works/"
-
-  [[menu.main]]
     name = "Members"
     identifier = "members"
     url = "/members/"
+
+  [[menu.main]]
+    name = "News"
+    identifier = "news"
+    url = "/post/news"
+
+  [[menu.main]]
+    name = "Works"
+    identifier = "works"
+    url = "/post/works"
+
+  [[menu.main]]
+    name = "Articles"
+    identifier = "articles"
+    url = "/post/articles"

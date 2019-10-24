@@ -1,0 +1,10 @@
++++
+title =  "Sample"
+date = 2019-10-21T15:18:48+09:00
+tags = ["event"]
+featured_image = "/images/heavy_breathing_cat.jpg"
+description = ""
++++
+
+# サンプル記事
+`news`セクションのサンプル記事です。
