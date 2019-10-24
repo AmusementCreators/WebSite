@@ -1,7 +1,7 @@
 +++
 title =  "Sample"
 date = 2019-10-22T13:34:19+09:00
-draft = true
+draft = false
 tags = ["sample","game"]
 featured_image = "/images/space_cat.jpg"
 description = "宇宙猫でガンギマるゲームです"
