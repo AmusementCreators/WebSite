@@ -12,10 +12,10 @@ Amusement Creatorsは2008年より筑波大学で活動している一般学生�
 ## 活動
 - ゲーム制作
    - ゲームエンジン: Altseedを用いた開発
-   - Altseed以外のエンジン(Unity, UnrealEngineなど)を用いた開発
+   - Altseed以外のエンジン(Unityなど)を用いた開発
 - ゲームエンジン開発
    - Altseed2の開発
-      - C++, C#, Rust向け
+      - C#, Rust向け
 - リソース制作
    - DTM
    - Blendarなどを用いた3Dモデリング
