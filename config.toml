@@ -1,6 +1,6 @@
 baseURL = "https://www.amusement-creators.info/"
 languageCode = "ja-jp"
-title = "Amusement Creators New Website Prototype"
+title = "Amusement Creators"
 theme = "ananke"
 background_color_class = "bg-white"
 featured_image = "/images/hero.png"
