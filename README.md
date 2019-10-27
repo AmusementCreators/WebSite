@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/50b2fc8e-c339-45f8-815b-13a56465c8e3/deploy-status)](https://app.netlify.com/sites/hungry-albattani-56f646/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/476617df-8e54-446f-8e90-47c78bede10c/deploy-status)](https://app.netlify.com/sites/hungry-albattani-56f646/deploys)
 # Overview
 AmusementCreatorsの公式HPのソースです。
 
