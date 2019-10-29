@@ -1,5 +1,9 @@
 [
   {
+    "Year": 2019,
+    "Members": []
+  },
+  {
     "Year": 2018,
     "Members": [
       {
@@ -11,34 +15,15 @@
           "Twitter": "https://twitter.com/KaiseiYokoyama",
           "Github": "https://github.com/KaiseiYokoyama"
         }
-      },
-      {
-        "Name": "AmCrちゃん",
-        "Description": "強い静的型付けの言語を信奉しています。"
       }
     ]
   },
   {
     "Year": 2017,
-    "Members": [
-      {
-        "Name": "JavaScriptくん",
-        "Description": "学習曲線がゆるやかです。"
-      },
-      {
-        "Name": "wraikny",
-        "Description": "F#でゲーム制作",
-        "Tags": ["F#", "Rust", "Altseed"]
-      }
-    ]
+    "Members": []
   },
   {
     "Title": "Legend",
-    "Members": [
-      {
-        "Name": "COBOL爺",
-        "Description": "基幹システムで生きています。"
-      }
-    ]
+    "Members": []
   }
 ]
