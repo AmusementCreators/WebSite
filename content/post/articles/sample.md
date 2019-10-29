@@ -1,7 +1,7 @@
 +++
 title =  "Sample"
 date = 2019-10-24T08:56:34+09:00
-draft = false
+draft = true
 tags = []
 featured_image = "/images/article_cat.jpeg"
 description = ""
