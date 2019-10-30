@@ -15,6 +15,16 @@
           "Twitter": "https://twitter.com/KaiseiYokoyama",
           "Github": "https://github.com/KaiseiYokoyama"
         }
+      },
+      {
+        "Name": "argonism",
+        "Thumbnail": "/images/nynk.jpg",
+        "Tags": ["C#","Python","Ruby"],
+        "Description": "ドット絵しか愛せない",
+        "SNS": {
+          "Twitter": "https://twitter.com/argo_nism",
+          "Github": "https://github.com/argonism"
+        }
       }
     ]
   },
