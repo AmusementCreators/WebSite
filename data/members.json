@@ -13,7 +13,11 @@
         "Description": "好きな言語は**日本語**です。ケツファイア駆動という先輩の言葉がとても気に入っています。",
         "SNS": {
           "Twitter": "https://twitter.com/KaiseiYokoyama",
-          "Github": "https://github.com/KaiseiYokoyama"
+          "Github": "https://github.com/KaiseiYokoyama",
+          "Homepage": {
+            "Url": "https://kaiseiyokoyama.github.io/blog/",
+            "Title": "モダンな言語をたのむ"
+          }
         }
       },
       {
