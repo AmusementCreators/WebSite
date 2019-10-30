@@ -9,3 +9,7 @@ description = ""
 
 # サンプル記事
 `articles`セクションのサンプル記事です。
+
+[外部リンク(google)](https://www.google.co.jp/)
+
+[内部リンク](../../news/sample/)
