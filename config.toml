@@ -6,6 +6,9 @@ background_color_class = "bg-white"
 featured_image = "/images/hero.png"
 hasCJKLanguage = true
 
+[blackfriday]
+hrefTargetBlank = true
+
 [params]
   description = "筑波大学 Amusement Creators"
   images = ["/images/logo.png"]
