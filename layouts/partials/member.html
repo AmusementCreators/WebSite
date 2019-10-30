@@ -30,6 +30,12 @@
             {{- partial "new-window-icon.html" . -}}
           </a>
         {{ end }}
+        {{ with .SNS.Link }}
+          <a href="{{ .Url }}" target="_blank" class="link-transition link-external link dib z-999 pt3 pt0-l mr1" title="{{ .Title }}" rel="noopener" aria-label="リンク: {{ .Title }}">
+            {{ partial "svg/link.svg" (dict "size" $icon_size) }}
+            {{- partial "new-window-icon.html" . -}}
+          </a>
+        {{ end }}
     </div>
   </div>
 </div>
