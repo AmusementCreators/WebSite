@@ -9,9 +9,11 @@
       {{ else }}
         <h1 class="flex-none"> {{ .Title }} </h1>
       {{ end }}
-      {{ range .Members }}
-        {{ partial "member.html" . }}
-      {{ end }}
+      <div class="cards">
+        {{ range .Members }}
+          {{ partial "member.html" . }}
+        {{ end }}
+      </div>
     {{ end }}
   </article>
   <link href="/dist/css/members.css" rel="stylesheet">

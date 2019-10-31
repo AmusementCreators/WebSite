@@ -1,11 +1,9 @@
 {{ $icon_size := "32px" }}
-<div class="relative w-100 mb4 bg-white nested-copy-line-height flex">
+<div class="card">
   {{ with .Thumbnail }}
-  <div class="flex-1 thumbnail-wrapper">
-    <img class="thumbnail" src="{{ . }}">
-  </div>
+  <img class="thumbnail" src="{{ . }}">
   {{ end }}
-  <div class="bg-white mb3 pa4 gray overflow-hidden flex-1">
+  <div class="document bg-white mb3 pa4 gray overflow-hidden">
     {{ range .Tags }}
       <span class="f6">{{ . }}</span>
     {{ end }}
