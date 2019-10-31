@@ -1,0 +1,51 @@
+/* カード一覧 */
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items:flex-start;
+}
+
+/* カード */
+.card {
+  display: flex;
+  /* サムネイル, ドキュメント(名前、タグ、description, SNSアイコンなど)、を縦に並べる */
+  flex-direction: column;
+
+  flex: 0 0 30%;
+  margin: 0.6%;
+}
+/* カード(スマホ) */
+@media screen and (max-width: 600px) {
+  .card {
+    flex: 0 0 100%;
+  }
+}
+.card > img.thumbnail {
+  width: 100%;
+  height: 20vh;
+  object-fit: cover;
+}
+.card > .document > .socials {
+  padding-top: 1em;
+}
+
+.flex {
+  display: flex;
+}
+.flex-1 {
+  flex-grow: 1;
+}
+.thumbnail-wrapper {
+  max-width: 30em;
+  max-height: 30em;
+}
+
+.socials {
+}
+.link-external {
+  fill: #bababa;
+}
+.link-external:hover {
+  fill: #3088d4;
+}
+
