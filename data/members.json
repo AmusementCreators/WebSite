@@ -9,7 +9,7 @@
       {
         "Name": "Kaisei Yokoyama",
         "Thumbnail": "/images/space_cat.jpg",
-        "Tags": ["Rust","Swift","F#","JavaScript"],
+        "Tags": [ "Rust", "Swift", "F#", "JavaScript" ],
         "Description": "好きな言語は**日本語**です。ケツファイア駆動という先輩の言葉がとても気に入っています。",
         "SNS": {
           "Twitter": "https://twitter.com/KaiseiYokoyama",
@@ -23,7 +23,7 @@
       {
         "Name": "argonism",
         "Thumbnail": "/images/nynk.png",
-        "Tags": ["C#","Python","Ruby"],
+        "Tags": [ "C#", "Python", "Ruby" ],
         "Description": "ドット絵しか愛せない",
         "SNS": {
           "Twitter": "https://twitter.com/argo_nism",
@@ -38,11 +38,26 @@
       {
         "Name": "wraikny(れいにー)",
         "Thumbnail": "/images/wraikny_icon_2.png",
-        "Tags": ["F", "C#", "Rust", "Elm", "Altseed", "Shader"],
+        "Tags": [ "F", "C#", "Rust", "Elm", "Altseed", "Shader" ],
         "Description": "F#でゲームを作るバーチャル美少女クリエイター。<br>2019年代表。<br>ホームページ:[wraikny's](https://wraikny.amebaownd.com/)<br>個人サークル:[Lepus Pluvia](http://lepuspluvia.com/)",
         "SNS": {
           "Twitter": "https://twitter.com/wraikny",
           "Github": "https://github.com/wraikny"
+        }
+      }
+    ]
+  },
+  {
+    "Year": 2015,
+    "Members": [
+      {
+        "Name": "wisteria",
+        "Thumbnail": "/images/futaba-chan.png",
+        "Tags": [ "C#", "Altseed", "おうち10G", "イラレ" ],
+        "Description": "ゲームの原料はC#とイラレと美味しいごはん。<br>2017年代表。<br>[foglia](https://www.foglia.moe/)",
+        "SNS": {
+          "Twitter": "https://twitter.com/wistnki",
+          "Github": "https://github.com/wistnki"
         }
       }
     ]
