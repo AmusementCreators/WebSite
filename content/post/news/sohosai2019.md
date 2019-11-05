@@ -68,7 +68,7 @@ LEVELは全部で3つ、雙峰祭で最後までクリアできたのは3人だ�
 ### Elemental Speed Neo / 製作: shot
 ![Elemental Speed Neo SS](/images/sohosai2019/ElementalSpeedNeo.png)
 トランプゲーム「スピード」をアレンジしたゲームです！　
-属性とヒットポイントという独自の要素
+属性相性を合わせて相手に高ダメージを与えろ！
 
 ### Soleil / 製作: Bunny
 ![Soleil SS](/images/sohosai2019/Soleil.png)
