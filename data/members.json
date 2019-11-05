@@ -38,11 +38,15 @@
       {
         "Name": "wraikny(れいにー)",
         "Thumbnail": "/images/wraikny_icon_2.png",
-        "Tags": [ "F", "C#", "Rust", "Elm", "Altseed", "Shader" ],
-        "Description": "F#でゲームを作るバーチャル美少女クリエイター。<br>2019年代表。<br>ホームページ:[wraikny's](https://wraikny.amebaownd.com/)<br>個人サークル:[Lepus Pluvia](http://lepuspluvia.com/)",
+        "Tags": ["F#", "C#", "Rust", "Elm", "Altseed", "Shader"],
+        "Description": "F#でゲームを作るバーチャル美少女クリエイター。Altseed2のRust担当。2019年代表。<br>個人サークル: [Lepus Pluvia](http://lepuspluvia.com/)",
         "SNS": {
           "Twitter": "https://twitter.com/wraikny",
-          "Github": "https://github.com/wraikny"
+          "Github": "https://github.com/wraikny",
+          "Link": {
+            "Url": "https://wraikny.amebaownd.com/",
+            "Title": "wraikny's"
+          }
         }
       }
     ]
