@@ -1,7 +1,7 @@
 +++
 title = "雙峰祭2019へ参加しました"
 date = 2019-11-06T02:47:28+09:00
-draft = true
+draft = false
 tags = ["イベント", "筑波大学", "雙峰祭", "2019年"]
 featured_image = "/images/sohosai2019/feature.jpg"
 description = "雙峰祭2019でゲームの展示・試遊・無料頒布を行いました。"
