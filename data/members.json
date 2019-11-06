@@ -44,7 +44,11 @@
         "Description": "ドット絵しか愛せない",
         "SNS": {
           "Twitter": "https://twitter.com/argo_nism",
-          "Github": "https://github.com/argonism"
+          "Github": "https://github.com/argonism",
+          "Link": {
+            "Url": "http://argonism.info/",
+            "Title": "ホームページ的なあれ"
+          }
         }
       },
       {
