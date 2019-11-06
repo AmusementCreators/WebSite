@@ -1,0 +1,19 @@
+/*
+ * `main[role="main"] > article > section`: 記事の本文
+ */
+
+/*
+ * 本文中で同じ段落にあり, なおかつ隣接するimg要素どうしの間隔を開けている
+ */
+main[role="main"] > article > section > p > img + img {
+  margin-top: 20px;
+}
+
+/*
+ * 本文中でテキストと隣接するimg要素にマージンを与えている
+ * テキストが上下どちらに来てもいいように, img要素の上下にマージンを設定している
+ */
+main[role="main"] > article > section > p > img:only-child {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
