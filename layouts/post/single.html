@@ -45,6 +45,10 @@
     <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
       {{- partial "tags.html" . -}}
       {{- .Content -}}
+      <div>
+          <p class="f6 b helvetica tracked">SHARE THIS POST</p>
+          <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
       <div class="mt6">
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
