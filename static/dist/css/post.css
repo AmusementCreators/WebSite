@@ -17,3 +17,8 @@ main[role="main"] > article > section > p > img:only-child {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+main[role="main"] > article > section > div.tags {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
