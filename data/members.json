@@ -24,6 +24,11 @@
         "Description": "紹介できる自分がない"
       },
       {
+        "Name": "ハルピン",
+        "Thumbnail": "/images/r110.png",
+        "Description": "プログラミングわかんない"
+      },
+      {
         "Name": "kinoko",
         "Thumbnail": "/image/kinoko_19.png",
         "Tags": ["Godot", "Blender"],
