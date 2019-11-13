@@ -35,7 +35,7 @@
       },
       {
         "Name": "kinoko",
-        "Thumbnail": "/image/kinoko_19.png",
+        "Thumbnail": "/images/kinoko_19.png",
         "Tags": ["Godot", "Blender"],
         "Description":"Blender使えます。Godot Engine布教者。",
         "SNS":{
