@@ -12,7 +12,12 @@
       },
       {
         "Name": "Funny_Silkie",
-        "Description": "情報でも理工でもなく生物専攻の人。グレムリン効果をよく起こす。"
+        "Tags" :  ["C#"],
+        "Description": "情報でも理工でもなく生物専攻の人。グレムリン効果をよく起こす。",
+        "SNS": {
+            "Twitter": "https://twitter.com/Funny_Silkie",
+            "Github": "https://github.com/Funny-Silkie"
+        }
       },
       {
         "Name": "ninojujo",
