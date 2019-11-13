@@ -81,7 +81,13 @@
       },
       {
         "Name": "Gon",
-        "Description": "NetflixとAmazon Primeを燃料に作業する人間。C#とイラレ・フォトショでなんとかできると思いこんでいる。最近、同じ映画・アニメを見返すだけの老害になってるのでおすすめがあったら教えてね"
+        "Thumbnail": "/images/gon_icon.png",
+        "Tags": [ "C#", "C++", "Python" ],
+        "Description": "NetflixとAmazon Primeを燃料に作業する人間。C#とイラレ・フォトショでなんとかできると思いこんでいる。最近、同じ映画・アニメを見返すだけの老害になってるのでおすすめがあったら教えてね",
+        "SNS": {
+          "Twitter": "https://twitter.com/gooooooon_",
+          "Github": "https://github.com/gon6109"
+        }
       },
       {
         "Name": "haru"
