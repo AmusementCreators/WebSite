@@ -63,7 +63,18 @@
         "Name": "haru"
       },
       {
-        "Name": "negset"
+        "Name": "negset",
+        "Thumbnail": "/images/negset.svg",
+        "Tags": [ "Java", "Kotlin" ],
+        "Description": "JavaとかKotlinを書きます。",
+        "SNS": {
+          "Twitter": "https://twitter.com/negset",
+          "Github": "https://github.com/negset",
+          "Link": {
+            "Url": "https://negset.com/",
+            "Title": "negset.com"
+          }
+        }
       },
       {
         "Name": "SIY1121",
