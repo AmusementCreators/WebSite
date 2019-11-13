@@ -28,3 +28,5 @@ hugo server -D
 ## 変更履歴
 - `layouts/index.html`
    - `contents`直下のすべてのセクションのRecently Postsを表示するように変更
+- `layouts/section/wiki.html`
+   - `/wiki/`ページからホームページに遷移するように(ref. #38 )
