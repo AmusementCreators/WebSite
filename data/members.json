@@ -8,7 +8,12 @@
       },
       {
         "Name": "Tamu... / shuWshu",
-        "Description": "プログラミング経験ほぼ無し 貧弱音ゲーマー"
+        "Thumbnail": "/images/Tamu.jpg",
+        "Tags": [ "C#" ],
+        "Description": "プログラミング歴半年 最近ボドゲ宣教師と化している",
+        "SNS":  {
+          "Twitter": "https://twitter.com/Tamu0728r"     
+        }
       },
       {
         "Name": "Funny_Silkie",
