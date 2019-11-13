@@ -17,6 +17,15 @@
       {
         "Name": "ninojujo",
         "Description": "紹介できる自分がない"
+      },
+      {
+        "Name": "kinoko",
+        "Thumbnail": "/image/kinoko_19.png",
+        "Tags": ["Godot", "Blender"],
+        "Description":"Blender使えます。Godot Engine布教者。",
+        "SNS":{
+          "Twitter": "https://twitter.com/kinoko_ver2"
+        }
       }
     ]
   },
