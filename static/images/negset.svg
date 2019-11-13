@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+         "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="3.33333in" height="3.33333in" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="arm" gradientTransform="rotate(90)">
+      <stop offset="0.43750" stop-color="#4285f4" />
+      <stop offset="0.43751" stop-color="#a4c639" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1000" height="1000" fill="#2c2c2c" />
+  <g fill="#a4c639">
+    <rect x="166" y="285" width="28" height="140" rx="14" ry="14" transform="rotate(-30)"/>
+    <rect x="672" y="-215" width="28" height="140" rx="14" ry="14" transform="rotate(30)"/>
+    <path d="M 488.00,248.00
+             C 418.50,169.50 388.00,47.50 505.50,34.50
+               487.50,55.50 443.00,114.50 495.00,240.50" />
+    <path d="M 492.50,236.00
+             C 494.50,171.50 558.50,135.00 612.00,156.00
+               563.00,171.00 511.00,212.50 500.00,247.50" />
+    <circle cx="500" cy="548" r="321" />
+  </g>
+  <rect x="170" y="512" width="660" height="80" fill="#2c2c2c" />
+  <rect x="180" y="550" width="640" height="450" fill="#4285f4" />
+  <g fill="url(#arm)">
+    <rect x="34" y="550" width="120" height="440" rx="60" ry="60" />
+    <rect x="846" y="550" width="120" height="440" rx="60" ry="60" />
+  </g>
+  <g fill="#c0cefa">
+    <polygon points="435,640 435,865 339,905 339,680" />
+    <polygon points="660,640 660,865 564,905 564,680" />
+  </g>
+  <g fill="#fff">
+    <circle cx="350" cy="388" r="33" />
+    <circle cx="650" cy="388" r="33" />
+    <polygon points="435,640 660,865 564,905 339,680" />
+  </g>
+</svg>
