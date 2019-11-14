@@ -90,7 +90,8 @@
         }
       },
       {
-        "Name": "haru"
+        "Name": "haru",
+        "Description": ""
       },
       {
         "Name": "negset",
