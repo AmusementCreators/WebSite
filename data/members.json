@@ -115,10 +115,12 @@
         "Description": "ゼルダシリーズこそ志向。"
       },
       {
-        "Name": "ほんどぅー"
+        "Name": "ほんどぅー",
+        "Description": "",
       },
       {
-        "Name": "やまの"
+        "Name": "やまの",
+        "Description": "",
       }
     ]
   },
