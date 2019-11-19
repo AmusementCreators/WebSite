@@ -113,7 +113,13 @@
       },
       {
         "Name": "キノ子",
-        "Description": "ゼルダシリーズこそ志向。"
+        "Thumbnail": "/images/kinoko_18.png",
+        "Tags": [ "Ruby" ],
+        "Description": "食べることと寝ることとゼルダが好き",
+        "SNS": {
+          "Twitter": "https://twitter.com/nanaka0012",
+          "Github": "https://github.com/nanaka0012"
+        }
       },
       {
         "Name": "ほんどぅー",
