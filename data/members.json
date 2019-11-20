@@ -4,7 +4,13 @@
     "Members": [
       {
         "Name": "まめプロ",
-        "Description": "プログラミングよわよわ。C++を完全に理解したい"
+        "Tags": ["C#"],
+        "Thumbnail":"/images/noom.jpg",
+        "Description": "プログラミングよわよわ。とりあえず毎日コード書きます",
+        "SNS": {
+          "Twitter":"https://twitter.com/mamepuro0540",
+          "Github":"https://github.com/mamepuro"
+        }
       },
       {
         "Name": "Tamu... / shuWshu",
