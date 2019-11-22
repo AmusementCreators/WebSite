@@ -11,7 +11,7 @@ hrefTargetBlank = true
 
 [params]
   description = "筑波大学 Amusement Creators"
-  images = ["/images/logo.png"]
+  images = ["/images/hero.png"]
   twitter = "https://twitter.com/ac_is_not_am"
 
 
