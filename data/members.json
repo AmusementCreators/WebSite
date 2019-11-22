@@ -82,8 +82,14 @@
         }
       },
       {
-        "Name": "G.C.Lemon",
-        "Description": "音ゲーメインのC#/C++er 関数型を使いこなしたい"
+        "Name": "檸檬茶(Lemon TEA)",
+        "Thumbnail": "/images/LemonTEA.png",
+        "Tags": [ "C#", "C++", "Lua" ],
+        "Description": "音ゲーの人。C#とかC++とか書きます。最近Luaに手を出し始めました。東方の二次創作を作ってみたい",
+        "SNS": {
+          "Twitter": "https://twitter.com/Hi_Coders",
+          "Github": "https://github.com/GCLemon"
+        }
       },
       {
         "Name": "Gon",
