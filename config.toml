@@ -6,6 +6,8 @@ background_color_class = "bg-white"
 featured_image = "/images/hero.png"
 hasCJKLanguage = true
 enableEmoji = true
+# コードにハイライトを適用
+pygmentsCodeFences = true
 
 [taxonomies]
   author = "authors"
