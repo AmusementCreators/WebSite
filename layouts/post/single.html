@@ -16,7 +16,7 @@
         {{with .CurrentSection.Title }}{{. | upper }}{{end}}
       </p>
       <h1 class="f1 athelas mb1">
-        {{- .Title -}}
+        {{ .Title | emojify }}
       </h1>
       {{ with .Params.author }}
       <p class="tracked">
