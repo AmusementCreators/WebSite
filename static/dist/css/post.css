@@ -6,6 +6,23 @@
 }
 
 /*
+ * 著者名のスタイルをリセット (モダンブラウザのみ)
+ */
+#post-header > #post-header-authors .author > a {
+  all: unset;
+}
+#post-header > #post-header-authors .author > a:visited {
+  all: unset;
+}
+/*
+ * 著者名のスタイルを変更: マウスポインターを置いた時はリンクのように振る舞う
+ */
+#post-header > #post-header-authors .author > a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/*
  * 本文中で同じ段落にあり, なおかつ隣接するimg要素どうしの間隔を開けている
  */
 #post-content > p > img + img {

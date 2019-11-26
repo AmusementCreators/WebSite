@@ -22,7 +22,11 @@
       <p class="tracked" id="post-header-authors">
           By 
         {{ range . }}
-        <strong class="author">{{ . | markdownify }}</strong>
+        <strong class="author">
+          <a href='/authors/{{ urlize . }}'>
+            {{  . | markdownify }}
+          </a>
+        </strong>
         {{ end }}
       </p>
       {{ else }}
