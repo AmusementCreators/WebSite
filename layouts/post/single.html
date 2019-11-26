@@ -5,9 +5,9 @@
 
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
-  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+  <article class="flex-l flex-wrap justify-between mw8 center ph3" id="post">
 
-    <header class="mt4 w-100">
+    <header class="mt4 w-100" id="post-header">
       <p class="f6 b helvetica tracked">
           {{/*
           CurrentSection allows us to use the section title instead of inferring from the folder.
@@ -18,10 +18,23 @@
       <h1 class="f1 athelas mb1">
         {{ .Title | emojify }}
       </h1>
-      {{ with .Params.author }}
-      <p class="tracked">
-         By <strong>{{ . | markdownify }}</strong>
+      {{ with .Params.authors }}
+      <p class="tracked" id="post-header-authors">
+          By 
+        {{ range . }}
+        <strong class="author">
+          <a href='/authors/{{ urlize . }}'>
+            {{  . | markdownify }}
+          </a>
+        </strong>
+        {{ end }}
       </p>
+      {{ else }}
+        {{ with .Params.author }}
+        <p class="tracked">
+          By <strong>{{ . | markdownify }}</strong>
+        </p>
+        {{ end }}
       {{ end }}
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
       <time class="f6 mv4 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
@@ -42,7 +55,7 @@
       </div>
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l" id="post-content">
       {{- partial "tags.html" . -}}
       {{- .Content -}}
       <div>

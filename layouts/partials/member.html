@@ -7,10 +7,10 @@
     {{ range .Tags }}
       <span class="f6">{{ . }}</span>
     {{ end }}
-    <h1 class="f3 near-black">
-      <span class="black">
+    <h1 class="f3 near-black title">
+      <a href="/authors/{{ urlize .Name }}" class="black">
         {{ .Name }}
-      </span>
+      </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       {{ .Description | markdownify }}

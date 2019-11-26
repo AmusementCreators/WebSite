@@ -7,6 +7,11 @@ featured_image = "/images/hero.png"
 hasCJKLanguage = true
 enableEmoji = true
 
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+
 [blackfriday]
 hrefTargetBlank = true
 
