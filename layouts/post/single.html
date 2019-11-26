@@ -5,9 +5,9 @@
 
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
-  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+  <article class="flex-l flex-wrap justify-between mw8 center ph3" id="post">
 
-    <header class="mt4 w-100">
+    <header class="mt4 w-100" id="post-header">
       <p class="f6 b helvetica tracked">
           {{/*
           CurrentSection allows us to use the section title instead of inferring from the folder.
@@ -19,10 +19,10 @@
         {{ .Title | emojify }}
       </h1>
       {{ with .Params.authors }}
-      <p class="tracked">
+      <p class="tracked" id="post-header-authors">
           By 
         {{ range . }}
-        <strong>{{ . | markdownify }}</strong>
+        <strong class="author">{{ . | markdownify }}</strong>
         {{ end }}
       </p>
       {{ else }}
@@ -51,7 +51,7 @@
       </div>
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l" id="post-content">
       {{- partial "tags.html" . -}}
       {{- .Content -}}
       <div>

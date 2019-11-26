@@ -1,11 +1,14 @@
 /*
- * `main[role="main"] > article > section`: 記事の本文
+ * 記事に著者が複数いる場合, カンマ区切りで表示する
  */
+#post-header > #post-header-authors .author:not(:first-child)::before {
+  content: ', ';
+}
 
 /*
  * 本文中で同じ段落にあり, なおかつ隣接するimg要素どうしの間隔を開けている
  */
-main[role="main"] > article > section > p > img + img {
+#post-content > p > img + img {
   margin-top: 20px;
 }
 
@@ -13,12 +16,15 @@ main[role="main"] > article > section > p > img + img {
  * 本文中でテキストと隣接するimg要素にマージンを与えている
  * テキストが上下どちらに来てもいいように, img要素の上下にマージンを設定している
  */
-main[role="main"] > article > section > p > img:only-child {
+#post-content > p > img:only-child {
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
-main[role="main"] > article > section > div.tags {
+/*
+ *　タグの表示領域の上下にマージンを与えている
+ */
+#post-content > div.tags {
   margin-top: 20px;
   margin-bottom: 20px;
 }
