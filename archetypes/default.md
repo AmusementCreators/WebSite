@@ -5,5 +5,6 @@ draft = true
 tags = []
 toc = true
 featured_image = ""
+authors = []
 description = ""
 +++
