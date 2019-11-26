@@ -6,7 +6,7 @@
 }
 
 /*
- * 著者名のスタイルをリセット (モダンブラウザのみ)
+ * 著者名のa要素のスタイルをリセット (モダンブラウザのみ)
  */
 #post-header > #post-header-authors .author > a {
   all: unset;

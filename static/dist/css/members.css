@@ -20,11 +20,27 @@
     flex: 0 0 100%;
   }
 }
+
 .card > img.thumbnail {
   width: 100%;
   height: 20vh;
   object-fit: cover;
 }
+
+/*
+ * タイトルのa要素のスタイルをリセット (モダンブラウザのみ)
+ */
+.card > .document > .title > a {
+  all: unset;
+}
+.card > .document > .title > a:visited {
+  all: unset;
+}
+.card > .document > .title > a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 .card > .document > .socials {
   padding-top: 1em;
 }
