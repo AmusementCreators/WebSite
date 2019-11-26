@@ -3,9 +3,16 @@ languageCode = "ja-jp"
 title = "Amusement Creators"
 theme = "ananke"
 background_color_class = "bg-white"
+
+# デフォルトのヒーローヘッダーを設定
 featured_image = "/images/hero.png"
+
+# 日本語を使った記事でサマリの文字数がおかしくなるのを防ぐ
 hasCJKLanguage = true
+
+# 記事の本文で絵文字(ex. `:+1:, :muscle:`)を有効化
 enableEmoji = true
+
 # コードにハイライトを適用
 pygmentsCodeFences = true
 
@@ -14,7 +21,9 @@ pygmentsCodeFences = true
   tag = "tags"
   category = "categories"
 
+# hugoで使用されているmarkdownパーサーの設定
 [blackfriday]
+# 記事の文中のリンクはすべて別タブで開く
 hrefTargetBlank = true
 
 [params]
