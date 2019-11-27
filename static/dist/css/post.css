@@ -47,7 +47,17 @@
 }
 
 /*
- *　タグの表示領域の上下にマージンを与えている
+ * インラインコード(`inline_code`)のスタイル
+ */
+#post-content p code {
+  font-family: Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  background-color: #c0d3eb;
+
+  margin: 0 4px;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
 /*
  * テーブル(表)のスタイル
  */
