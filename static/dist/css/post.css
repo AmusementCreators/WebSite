@@ -1,4 +1,11 @@
 /*
+ * フォント設定
+ */
+#post, #post-content {
+  font-family: -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;
+}
+
+/*
  * 記事に著者が複数いる場合, カンマ区切りで表示する
  */
 #post-header > #post-header-authors .author:not(:first-child)::before {
@@ -23,6 +30,14 @@
 }
 
 /*
+ *　タグの表示領域の上下にマージンを与えている
+ */
+ #post-content > div.tags {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*
  * 本文中で同じ段落にあり, なおかつ隣接するimg要素どうしの間隔を開けている
  */
 #post-content > p > img + img {
@@ -39,9 +54,45 @@
 }
 
 /*
- *　タグの表示領域の上下にマージンを与えている
+ * インラインコード(`inline_code`)のスタイル
  */
-#post-content > div.tags {
-  margin-top: 20px;
-  margin-bottom: 20px;
+#post-content p code {
+  font-family: Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  background-color: #c0d3eb;
+
+  margin: 0 4px;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/*
+ * コードフェンス(```code)内のフォントを変更
+ */
+ #post-content pre code {
+  font-family: Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+}
+
+/*
+ * テーブル(表)のスタイル
+ */
+#post-content > table {
+  border-spacing: 0;
+  border-radius: 4px;
+  padding: 4px;
+  overflow: hidden;
+}
+#post-content > table th, #post-content > table td {
+  padding: 4px;
+}
+#post-content > table th + th, #post-content > table td + td {
+  border-left: solid 2px rgba(128, 128, 128, 0.5);
+}
+#post-content > table thead {
+  background-color: #8aadd7;
+}
+#post-content > table tbody tr:nth-child(odd) {
+  background-color: #c0d3eb;
+}
+#post-content > table tbody tr:nth-child(even) {
+  background-color: #dde5f0;
 }
