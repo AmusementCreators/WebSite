@@ -3,7 +3,7 @@
 AmusementCreatorsの公式HPのソースです。
 
 # Usage
-詳しい利用法や運用方法(**下準備**、**記事の作成**、**自己紹介の追加** 等)は[wiki](https://github.com/AmusementCreators/WebSite/wiki)を御覧ください。
+詳しい利用法や運用方法(**下準備**、**記事の作成**、**自己紹介の追加**, **Tips** 等)は[wiki](https://github.com/AmusementCreators/WebSite/wiki)を御覧ください。
 
 ## Install Hugo
 ```bash
