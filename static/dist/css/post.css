@@ -23,6 +23,14 @@
 }
 
 /*
+ *　タグの表示領域の上下にマージンを与えている
+ */
+ #post-content > div.tags {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*
  * 本文中で同じ段落にあり, なおかつ隣接するimg要素どうしの間隔を開けている
  */
 #post-content > p > img + img {
@@ -40,8 +48,27 @@
 
 /*
  *　タグの表示領域の上下にマージンを与えている
+/*
+ * テーブル(表)のスタイル
  */
-#post-content > div.tags {
-  margin-top: 20px;
-  margin-bottom: 20px;
+#post-content > table {
+  border-spacing: 0;
+  border-radius: 4px;
+  padding: 4px;
+  overflow: hidden;
+}
+#post-content > table th, #post-content > table td {
+  padding: 4px;
+}
+#post-content > table th + th, #post-content > table td + td {
+  border-left: solid 2px rgba(128, 128, 128, 0.5);
+}
+#post-content > table thead {
+  background-color: #8aadd7;
+}
+#post-content > table tbody tr:nth-child(odd) {
+  background-color: #c0d3eb;
+}
+#post-content > table tbody tr:nth-child(even) {
+  background-color: #dde5f0;
 }
