@@ -66,6 +66,13 @@
 }
 
 /*
+ * コードフェンス(```code)内のフォントを変更
+ */
+ #post-content pre code {
+  font-family: Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+}
+
+/*
  * テーブル(表)のスタイル
  */
 #post-content > table {
