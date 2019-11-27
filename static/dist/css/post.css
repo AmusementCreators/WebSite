@@ -1,4 +1,11 @@
 /*
+ * フォント設定
+ */
+#post, #post-content {
+  font-family: -apple-system,Segoe UI,Helvetica Neue,Hiragino Kaku Gothic ProN,"メイリオ",meiryo,sans-serif;
+}
+
+/*
  * 記事に著者が複数いる場合, カンマ区切りで表示する
  */
 #post-header > #post-header-authors .author:not(:first-child)::before {
