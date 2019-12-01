@@ -1,2 +1,2 @@
 [context.deploy-preview]
-  command = "hugo --DF"
+  command = "hugo -DF"
