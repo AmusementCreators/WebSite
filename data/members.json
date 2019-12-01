@@ -5,7 +5,7 @@
       {
         "Name": "まめプロ",
         "Tags": ["C#"],
-        "Thumbnail":"/images/noom.jpg",
+        "Thumbnail":"/images/members/noom.jpg",
         "Description": "プログラミングよわよわ。とりあえず毎日コード書きます",
         "SNS": {
           "Twitter":"https://twitter.com/mamepuro0540",
@@ -14,7 +14,7 @@
       },
       {
         "Name": "Tamu... / shuWshu",
-        "Thumbnail": "/images/Tamu.jpg",
+        "Thumbnail": "/images/members/Tamu.jpg",
         "Tags": [ "C#" ],
         "Description": "プログラミング歴半年 最近ボドゲ宣教師と化している",
         "SNS":  {
@@ -24,7 +24,7 @@
       {
         "Name": "Funny_Silkie",
         "Tags" :  ["C#"],
-        "Thumbnail":"/images/Funny_Silkie.png",
+        "Thumbnail":"/images/members/Funny_Silkie.png",
         "Description": "情報でも理工でもなく生物専攻の人。グレムリン効果をよく起こす。最近はクラスライブラリ作りに入魂。",
         "SNS": {
             "Twitter": "https://twitter.com/Funny_Silkie",
@@ -37,12 +37,12 @@
       },
       {
         "Name": "ハルピン",
-        "Thumbnail": "/images/r110.png",
+        "Thumbnail": "/images/members/r110.png",
         "Description": "プログラミングわかんない"
       },
       {
         "Name": "kinoko",
-        "Thumbnail": "/images/kinoko_19.png",
+        "Thumbnail": "/images/members/kinoko_19.png",
         "Tags": ["Godot", "Blender"],
         "Description":"Blender使えます。Godot Engine布教者。",
         "SNS":{
@@ -56,7 +56,7 @@
     "Members": [
       {
         "Name": "Kaisei Yokoyama",
-        "Thumbnail": "/images/space_cat.jpg",
+        "Thumbnail": "/images/members/space_cat.jpg",
         "Tags": [ "Rust", "Swift", "F#", "JavaScript" ],
         "Description": "好きな言語は**日本語**です。ケツファイア駆動という先輩の言葉がとても気に入っています。",
         "SNS": {
@@ -70,7 +70,7 @@
       },
       {
         "Name": "argonism",
-        "Thumbnail": "/images/nynk.png",
+        "Thumbnail": "/images/members/nynk.png",
         "Tags": [ "C#", "Python", "Ruby" ],
         "Description": "ドット絵しか愛せない",
         "SNS": {
@@ -84,7 +84,7 @@
       },
       {
         "Name": "檸檬茶(Lemon TEA)",
-        "Thumbnail": "/images/LemonTEA.png",
+        "Thumbnail": "/images/members/LemonTEA.png",
         "Tags": [ "C#", "C++", "Lua" ],
         "Description": "音ゲーの人。C#とかC++とか書きます。最近Luaに手を出し始めました。東方の二次創作を作ってみたい",
         "SNS": {
@@ -94,7 +94,7 @@
       },
       {
         "Name": "Gon",
-        "Thumbnail": "/images/gon_icon.png",
+        "Thumbnail": "/images/members/gon_icon.png",
         "Tags": [ "C#", "C++", "Python" ],
         "Description": "NetflixとAmazon Primeを燃料に作業する人間。C#とイラレ・フォトショでなんとかできると思いこんでいる。最近、同じ映画・アニメを見返すだけの老害になってるのでおすすめがあったら教えてね",
         "SNS": {
@@ -108,7 +108,7 @@
       },
       {
         "Name": "negset",
-        "Thumbnail": "/images/negset.svg",
+        "Thumbnail": "/images/members/negset.svg",
         "Tags": [ "Java", "Kotlin" ],
         "Description": "JavaとかKotlinを書きます。",
         "SNS": {
@@ -126,7 +126,7 @@
       },
       {
         "Name": "キノ子",
-        "Thumbnail": "/images/kinoko_18.png",
+        "Thumbnail": "/images/members/kinoko_18.png",
         "Tags": [ "Ruby" ],
         "Description": "食べることと寝ることとゼルダが好き",
         "SNS": {
@@ -149,7 +149,7 @@
     "Members": [
       {
         "Name": "wraikny(れいにー)",
-        "Thumbnail": "/images/wraikny_icon_2.png",
+        "Thumbnail": "/images/members/wraikny_icon_2.png",
         "Tags": ["F#", "C#", "Rust", "Elm", "Altseed", "Shader"],
         "Description": "F#でゲームを作るバーチャル美少女クリエイター。Altseed2のRust担当。2019年代表。<br>個人サークル: [Lepus Pluvia](http://lepuspluvia.com/)",
         "SNS": {
@@ -189,7 +189,7 @@
     "Members": [
       {
         "Name": "wisteria",
-        "Thumbnail": "/images/futaba-chan.png",
+        "Thumbnail": "/images/members/futaba-chan.png",
         "Tags": [ "C#", "Altseed", "おうち10G", "イラレ" ],
         "Description": "ゲームの原料はC#とイラレと美味しいごはん。<br>2017年代表。<br>[foglia](https://www.foglia.moe/)",
         "SNS": {
