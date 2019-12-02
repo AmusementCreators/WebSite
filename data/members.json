@@ -196,6 +196,16 @@
           "Twitter": "https://twitter.com/wistnki",
           "Github": "https://github.com/wistnki"
         }
+      },
+      {
+        "Name": "zamaka",
+        "Thumbnail": "/images/zamaka_icon.png",
+        "Tags": ["C#", "Altseed", "CLIP STUDIO PAINT", "Blender", "Domino"],
+        "Description": "ゲームは総合芸術。リソースは自作するもの。<br>プログラム、イラスト、ドット絵、3Dモデリング、作曲、録音まで、広く深くが目標。",
+        "SNS": {
+          "Twitter": "https://twitter.com/zamaka9",
+          "Github": "https://github.com/zamaka9"
+        }
       }
     ]
   },
