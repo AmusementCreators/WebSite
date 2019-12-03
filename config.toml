@@ -5,7 +5,7 @@ theme = "ananke"
 background_color_class = "bg-white"
 
 # デフォルトのヒーローヘッダーを設定
-featured_image = "/images/hero.png"
+featured_image = "/images/share_thumbnail.png"
 
 # 日本語を使った記事でサマリの文字数がおかしくなるのを防ぐ
 hasCJKLanguage = true
@@ -28,7 +28,7 @@ hrefTargetBlank = true
 
 [params]
   description = "筑波大学 Amusement Creators"
-  images = ["/images/hero.png"]
+  images = ["/images/share_thumbnail.png"]
   twitter = "https://twitter.com/ac_is_not_am"
 
 

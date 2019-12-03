@@ -22,7 +22,12 @@ scoop install hugo
 ```bash
 git clone {fork repo}
 git submodule update --init --recursive
-hugo server -D
+hugo server -DF
+```
+OR
+```bash
+git clone --recursive {fork repo}
+hugo server -DF
 ```
 
 ## 変更履歴
