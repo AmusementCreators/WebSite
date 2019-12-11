@@ -3,6 +3,14 @@
     "Year": 2019,
     "Members": [
       {
+        "Name":"MOMO",
+        "Tags": ["C++"],
+        "Description":"Ue4でなんかつくる予定",
+        "SNS": {
+          "Twitter":"https://twitter.com/momo_eater1"
+        }
+      },
+      {
         "Name": "まめプロ",
         "Tags": ["CSharp"],
         "Thumbnail":"/images/members/noom.jpg",
