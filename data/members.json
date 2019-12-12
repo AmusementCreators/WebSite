@@ -146,7 +146,13 @@
       },
       {
         "Name": "やまの",
-        "Description": ""
+        "Thumbnail": "/images/members/yamano_icon.png",
+        "Tags": ["CSharp","JavaScript"],
+        "Description": "CLANNADとFINAL FANTASYをこよなく愛す転生した人です。",
+        "SNS": {
+          "Twitter": "https://twitter.com/nbz_ff15",
+          "Github": "https://github.com/nbz16"
+        }
       }
     ]
   },
