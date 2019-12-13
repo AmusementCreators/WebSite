@@ -1,7 +1,7 @@
 +++
 title =  "　Nintendo Switchでコーディングしよう！"
 date = 2019-12-14T00:00:00+09:00
-draft = true
+draft = false
 tags = ["アドベントカレンダー2019","BASIC"]
 featured_image = "/images/acac2019/mame_advent2.jpeg"
 toc = true
