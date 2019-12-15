@@ -3,6 +3,14 @@
     "Year": 2019,
     "Members": [
       {
+        "Name":"MOMO",
+        "Tags": ["C++"],
+        "Description":"Ue4でなんかつくる予定",
+        "SNS": {
+          "Twitter":"https://twitter.com/momo_eater1"
+        }
+      },
+      {
         "Name": "まめプロ",
         "Tags": ["CSharp"],
         "Thumbnail":"/images/members/noom.jpg",
@@ -146,7 +154,13 @@
       },
       {
         "Name": "やまの",
-        "Description": ""
+        "Thumbnail": "/images/members/yamano_icon.png",
+        "Tags": ["CSharp","JavaScript"],
+        "Description": "CLANNADとFINAL FANTASYをこよなく愛す転生した人です。",
+        "SNS": {
+          "Twitter": "https://twitter.com/nbz_ff15",
+          "Github": "https://github.com/nbz16"
+        }
       }
     ]
   },
