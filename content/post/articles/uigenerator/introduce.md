@@ -63,7 +63,7 @@ UIGeneratorは，私Funny_Silkieが制作したAltseed1×C#におけるUI自動�
 - オプション：Altseedウィンドウのサイズやプロジェクトの名前を変更できる
 
 ## 2-2.UIオブジェクトについて
-UIオブジェクトには，`asd.Object2D`から発展したText，Texture，Windowがあります。  
+UIオブジェクトには，`asd.Object2D`から継承されたText，Texture，Windowがあります。  
 Windowは枠線などを設定できるテクスチャの発展形です。  
 Textでは登録したフォントが，Textureでは登録したテクスチャを使用する事が出来ます。  
 それぞれが専用のフォームから設定をする事が出来ます。
