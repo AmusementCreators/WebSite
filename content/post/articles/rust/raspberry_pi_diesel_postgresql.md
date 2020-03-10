@@ -1,7 +1,7 @@
 +++
 title =  "Raspberry_pi 4にPostgreSQLとdiesel_cliを導入した"
 date = 2020-03-10T23:28:49+09:00
-draft = true
+draft = false
 tags = ["Raspberry Pi", "Rust", "diesel", "diesel_cli", "PostgreSQL"]
 toc = true
 featured_image = "https://user-images.githubusercontent.com/8509057/76323013-74a3fd00-6327-11ea-94b9-b95a243dafd6.jpg"
