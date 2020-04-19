@@ -1,31 +1,26 @@
 +++
 title =  "そこのお前！ Github Education 一個に含まれるアドバンテージはGithub Education 一個分だぜ"
-date = 2020-04-28T00:00:00+09:00
+date = 2020-04-19T12:00:00+09:00
 draft = false
 tags = ["git", "github"]
 toc = true
 featured_image = "https://education.github.com/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png"
 authors = ["Kaisei Yokoyama"]
-description = "[(筑波大)新入生向け] Github Education のススメ"
+description = "[(筑波大)新入生向け] Github Education (Student Developer Pack) のススメ"
 +++
 
 ![github educations](https://user-images.githubusercontent.com/8509057/78855372-b1662f80-7a5e-11ea-9963-e46886464954.png)[^1]
 
-この記事は **筑波大学の情報系の学生** （特に新入生）および **情報系に興味のあるすべての学生** （と新入生）に宛てた記事です。 ~~筆者はGithubの回し者ではありません~~ 
+この記事は **筑波大学の情報系の学生** （特に新入生）および **情報系に興味のあるすべての学生** （と新入生）に宛てた記事です。 ~~筆者はGithubの回し者ではありません~~
+
+Github Educationには学生向けのStudent Developer Pack、教師向けのTeacher Toolbox、学校向けのCampus Programなどがありますが、今回は *Student Developer Pack* の紹介となります。
 
 ## TL;DR
-#### Q. [Github](https://github.com/) アカウントを持っていないのですが
-A. 取得しましょう 誰でも無料です
-
-#### Q. [Github Education](https://education.github.com/pack) に申し込んでいないのですが
-A. 申し込みましょう `.ac`アドレスを持っていれば申し込めます  
-無料です
-
-##### Q. 特典を使う予定がないのですが
-A. 申し込みましょう 選択肢は多いに越したことはないです
+#### Github Education とは?
+学生、教師、学校向けの、Githubから提供されるサポートパックです。ソフトウェアの開発に必要なツールを無償で獲得できます。
 
 #### Q. Education の申し込み方法は?
-A. [Github Educationのページ](https://education.github.com/pack)の `Get the Pack` ボタンから申し込めます。翌日ぐらいには通ってます
+A. [Github Educationのページ](https://education.github.com/pack)の `Get the Pack` ボタンから申し込めます。申請には一日ほどかかります。
 
 ##### 用意するもの
 
@@ -34,7 +29,7 @@ A. [Github Educationのページ](https://education.github.com/pack)の `Get the
 - (学生証[^3]: 場合によっては必要)
 
 ##### 利用計画(How do you plan to use Github?)を聞かれるのですが
-達者なことを書かなくても大丈夫です(テキストボックス小さいし)。素直に"For study, Personal Development, love and peace. "と書けば通ります、たぶん。
+達者なことを書かなくても大丈夫です。素直に"For study"と書けば通ります、たぶん。
 
 わからない場合は日本語ガイドをどうぞ ->  
 https://help.github.com/ja/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack
