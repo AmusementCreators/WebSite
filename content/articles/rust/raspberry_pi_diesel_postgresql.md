@@ -7,6 +7,7 @@ toc = true
 featured_image = "https://user-images.githubusercontent.com/8509057/76323013-74a3fd00-6327-11ea-94b9-b95a243dafd6.jpg"
 authors = ["Kaisei Yokoyama"]
 description = ""
+aliases = ["/post/articles/rust/raspberry_pi_diesel_postgresql"]
 +++
 
 ## TL;DR

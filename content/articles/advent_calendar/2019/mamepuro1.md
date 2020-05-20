@@ -7,6 +7,7 @@ featured_image = "/images/acac2019/mame_advent2.jpeg"
 toc = true
 author = "mamepuro"
 description = "Amusement Creators アドベントカレンダー 2019: 14日目 Nintendo Switchでコーディングできる「プチコン」の紹介"
+aliases = ["/post/articles/advent_calendar/2019/mamepuro1"]
 +++
  **この記事は[AmusementCreators AdventCalender](https://adventar.org/calendars/4301)14日目の記事になります。**
 # Nintendo Switchでコーディングしよう！

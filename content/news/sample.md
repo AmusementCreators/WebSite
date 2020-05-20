@@ -5,6 +5,7 @@ draft = true
 tags = ["event"]
 featured_image = "/images/heavy_breathing_cat.jpg"
 description = ""
+aliases = ["/post/news/sample"]
 +++
 
 # サンプル記事

@@ -7,6 +7,7 @@ toc = true
 featured_image = "https://education.github.com/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png"
 authors = ["Kaisei Yokoyama"]
 description = "[(筑波大)新入生向け] Github Education (Student Developer Pack) のススメ"
+aliases = ["/post/articles/git/github_education"]
 +++
 
 ![github educations](https://user-images.githubusercontent.com/8509057/78855372-b1662f80-7a5e-11ea-9963-e46886464954.png)[^1]

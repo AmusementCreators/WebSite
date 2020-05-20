@@ -7,6 +7,7 @@ toc = true
 featured_image = "/images/uigenerator/Top.png"
 authors = ["Funny_Silkie"]
 description = "Altseed1向けのUI制作ツールの紹介記事です。"
+aliases = ["/post/articles/uigenerator/introduce"]
 +++
 
 # UIGeneratorとは

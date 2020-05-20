@@ -5,6 +5,7 @@ draft = true
 tags = []
 featured_image = "/images/article_cat.jpeg"
 description = ""
+aliases = ["/post/articles/sample"]
 +++
 
 # サンプル記事

@@ -7,6 +7,7 @@ toc = true
 featured_image = ""
 authors = ["wraikny(れいにー)"]
 description = "拙作のSimpleRankingsServerを利用して手軽に"
+aliases = ["/post/articles/simple-rankings-server"]
 +++
 
 世界中の人とゲームスコアを競い合おう！
