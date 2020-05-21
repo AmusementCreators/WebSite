@@ -7,6 +7,7 @@ featured_image = "/images/sohosai2019/feature.jpg"
 description = "雙峰祭2019でゲームの展示・試遊・無料頒布を行いました。"
 authors = ["wraikny(れいにー)"]
 toc = true
+aliases = ["/post/news/sohosai2019"]
 +++
 雙峰祭2019でゲーム試遊台の展示とダウンロードカードの無料頒布を行いました。
 例年以上に多くの方に来ていただいて、ダウンロードカードは150枚ほど頒布することができました。

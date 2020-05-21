@@ -7,6 +7,7 @@ toc = true
 featured_image = "/images/acac2019/2_00_hero.png"
 authors = ["Kaisei Yokoyama"]
 description = "Rustでよく使うイテレータのメソッドのメモです"
+aliases = ["/post/articles/rust/introduce_iterator_methods"]
 +++
 
 Rustに触れて2年ぐらい経ち、ようやくまともにイテレータの使い方を理解し始めたような気がします。

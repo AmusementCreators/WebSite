@@ -7,6 +7,7 @@ toc = true
 featured_image = ""
 authors = ["wraikny(れいにー)"]
 description = ""
+aliases = ["/post/articles/git/pull_request"]
 +++
 
 # はじめに
