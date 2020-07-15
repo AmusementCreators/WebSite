@@ -1,7 +1,17 @@
 [
   {
     "Year": 2020,
-    "Members": []
+    "Members": [
+      {
+        "Name":"コイケ",
+        "Tags": ["CSharp", "Unity", "ドット絵"],
+        "Thumbnail":"/images/members/RintaroKoike.png",
+        "Description":"ゲームプランナーなりたいなあ",
+        "SNS": {
+          "Twitter":"https://twitter.com/IhatovCopan2000"
+        }
+      }
+    ]
   },
   {
     "Year": 2019,
