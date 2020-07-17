@@ -183,16 +183,11 @@
     "Members": [
       {
         "Name": "wraikny(れいにー)",
-        "Thumbnail": "/images/members/wraikny_icon_2.png",
-        "Tags": ["FSharp", "CSharp", "Rust", "Elm", "Altseed", "Shader"],
-        "Description": "F#でゲームを作るバーチャル美少女クリエイター。Altseed2のRust担当。2019年代表。<br>個人サークル: [Lepus Pluvia](http://lepuspluvia.com/)",
+        "Thumbnail": "/images/members/wraikny_icon.jpg",
+        "Tags": ["FSharp", "CSharp", "Rust", "Altseed", "Shader"],
+        "Description": "F#はいいぞ。CGとかゲームAIとか自動生成とか関数型言語とかに興味。<br>2019年代表。",
         "SNS": {
-          "Twitter": "https://twitter.com/wraikny",
-          "Github": "https://github.com/wraikny",
-          "Link": {
-            "Url": "https://wraikny.amebaownd.com/",
-            "Title": "wraikny's"
-          }
+          "Github": "https://github.com/wraikny"
         }
       },
       {
