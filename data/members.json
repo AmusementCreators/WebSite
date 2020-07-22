@@ -10,7 +10,16 @@
         "SNS": {
           "Twitter":"https://twitter.com/IhatovCopan2000"
         }
+      },
+      {
+        "Name":"ご。",
+        "Tags": ["Csharp"],
+        "Description":"ゲームをするかラーメンを食べるかをしたい",
+        "SNS": {
+          "Twitter":"https://twitter.com/tsuGooji"
+        }
       }
+
     ]
   },
   {
