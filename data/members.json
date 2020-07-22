@@ -19,6 +19,14 @@
         "SNS": {
           "Twitter":"https://twitter.com/goethe_kafka"
         }
+      },
+      {
+        "Name":"ご。",
+        "Tags": ["Csharp"],
+        "Description":"ゲームをするかラーメンを食べるかをしたい",
+        "SNS": {
+          "Twitter":"https://twitter.com/tsuGooji"
+        }
       }
     ]
   },
