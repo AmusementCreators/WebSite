@@ -10,6 +10,15 @@
         "SNS": {
           "Twitter":"https://twitter.com/IhatovCopan2000"
         }
+      },
+      {
+        "Name":"Wisteria",
+        "Tags": ["Unity", "競プロ"],
+        "Thumbnail":"/images/members/wisteria3hen.jpg",
+        "Description":"ここに書くこと募集中",
+        "SNS": {
+          "Twitter":"https://twitter.com/goethe_kafka"
+        }
       }
     ]
   },
