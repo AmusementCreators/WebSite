@@ -27,6 +27,16 @@
         "SNS": {
           "Twitter":"https://twitter.com/tsuGooji"
         }
+      },
+        {
+        "Name":"ad_mira",
+        "Tags": ["Unity", "blender"],
+        "Thumbnail":"/images/members/61527.png",
+        "Description":"ねこになりたい",
+        "SNS": {
+          "Twitter":"https://twitter.com/admiraVRC",
+          "Twitter":"https://twitter.com/miramira_zip"
+         }
       }
     ]
   },
