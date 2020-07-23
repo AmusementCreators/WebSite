@@ -27,6 +27,16 @@
         "SNS": {
           "Twitter":"https://twitter.com/tsuGooji"
         }
+      },
+        {
+        "Name":"ad_mira",
+        "Tags": ["Unity", "blender"],
+        "Thumbnail":"/images/members/nozoki.jpg",
+        "Description":"ケモミミ黒髪羽っこ美少女です",
+        "SNS": {
+          "Twitter":"https://twitter.com/admiraVRC",
+          "Twitter":"https://twitter.com/miramira_zip"
+         }
       }
     ]
   },
