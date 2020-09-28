@@ -5,7 +5,7 @@ draft = false
 tags = ["イベント", "筑波大学", "雙峰祭", "2019年"]
 featured_image = "/images/sohosai2019/feature.jpg"
 description = "雙峰祭2019でゲームの展示・試遊・無料頒布を行いました。"
-authors = ["wraikny(れいにー)"]
+authors = ["wraikny"]
 toc = true
 aliases = ["/post/news/sohosai2019"]
 +++
