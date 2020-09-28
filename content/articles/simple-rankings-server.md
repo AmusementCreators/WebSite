@@ -5,7 +5,7 @@ draft = false
 tags = ["Online", "Ranking", "CSharp", "FSharp"]
 toc = true
 featured_image = ""
-authors = ["wraikny(れいにー)"]
+authors = ["wraikny"]
 description = "拙作のSimpleRankingsServerを利用して手軽に"
 aliases = ["/post/articles/simple-rankings-server"]
 +++

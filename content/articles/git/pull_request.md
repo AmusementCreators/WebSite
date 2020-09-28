@@ -5,7 +5,7 @@ draft = false
 tags = [ "git" ]
 toc = true
 featured_image = ""
-authors = ["wraikny(れいにー)"]
+authors = ["wraikny"]
 description = ""
 aliases = ["/post/articles/git/pull_request"]
 +++
