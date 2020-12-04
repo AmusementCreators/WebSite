@@ -13,10 +13,12 @@
       },
       {
         "Name":"ご。",
-        "Tags": ["Csharp"],
+        "Tags": ["Csharp", "Unity"],
+        "Thumbnail":"/images/members/go_icon.png",
         "Description":"ゲームをするかラーメンを食べるかをしたい",
         "SNS": {
-          "Twitter":"https://twitter.com/tsuGooji"
+          "Twitter":"https://twitter.com/tsuGooji",
+          "Github":"https://github.com/kuresugutaira"
         }
       }
 
