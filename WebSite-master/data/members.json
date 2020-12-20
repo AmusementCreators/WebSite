@@ -1,0 +1,210 @@
+[
+  {
+    "Year": 2019,
+    "Members": [
+      {
+        "Name": "まめプロ",
+        "Description": "プログラミングよわよわ。C++を完全に理解したい"
+      },
+      {
+        "Name": "Tamu... / shuWshu",
+        "Thumbnail": "/images/Tamu.jpg",
+        "Tags": [ "C#" ],
+        "Description": "プログラミング歴半年 最近ボドゲ宣教師と化している",
+        "SNS":  {
+          "Twitter": "https://twitter.com/Tamu0728r"     
+        }
+      },
+      {
+        "Name": "Funny_Silkie",
+        "Tags" :  ["C#"],
+        "Description": "情報でも理工でもなく生物専攻の人。グレムリン効果をよく起こす。",
+        "SNS": {
+            "Twitter": "https://twitter.com/Funny_Silkie",
+            "Github": "https://github.com/Funny-Silkie"
+        }
+      },
+      {
+        "Name": "ninojujo",
+        "Description": "紹介できる自分がない"
+      },
+      {
+        "Name": "ハルピン",
+        "Thumbnail": "/images/r110.png",
+        "Description": "プログラミングわかんない"
+      },
+      {
+        "Name": "kinoko",
+        "Thumbnail": "/images/kinoko_19.png",
+        "Tags": ["Godot", "Blender"],
+        "Description":"Blender使えます。Godot Engine布教者。",
+        "SNS":{
+          "Twitter": "https://twitter.com/kinoko_ver2"
+        }
+      }
+    ]
+  },
+  {
+    "Year": 2018,
+    "Members": [
+      {
+        "Name": "Kaisei Yokoyama",
+        "Thumbnail": "/images/space_cat.jpg",
+        "Tags": [ "Rust", "Swift", "F#", "JavaScript" ],
+        "Description": "好きな言語は**日本語**です。ケツファイア駆動という先輩の言葉がとても気に入っています。",
+        "SNS": {
+          "Twitter": "https://twitter.com/KaiseiYokoyama",
+          "Github": "https://github.com/KaiseiYokoyama",
+          "Link": {
+            "Url": "https://kaiseiyokoyama.github.io/blog/",
+            "Title": "モダンな言語をたのむ"
+          }
+        }
+      },
+      {
+        "Name": "argonism",
+        "Thumbnail": "/images/nynk.png",
+        "Tags": [ "C#", "Python", "Ruby" ],
+        "Description": "ドット絵しか愛せない",
+        "SNS": {
+          "Twitter": "https://twitter.com/argo_nism",
+          "Github": "https://github.com/argonism",
+          "Link": {
+            "Url": "http://argonism.info/",
+            "Title": "ホームページ的なあれ"
+          }
+        }
+      },
+      {
+        "Name": "G.C.Lemon",
+        "Description": "音ゲーメインのC#/C++er 関数型を使いこなしたい"
+      },
+      {
+        "Name": "Gon",
+        "Description": "NetflixとAmazon Primeを燃料に作業する人間。C#とイラレ・フォトショでなんとかできると思いこんでいる。最近、同じ映画・アニメを見返すだけの老害になってるのでおすすめがあったら教えてね"
+      },
+      {
+        "Name": "haru"
+      },
+      {
+        "Name": "negset",
+        "Thumbnail": "/images/negset.svg",
+        "Tags": [ "Java", "Kotlin" ],
+        "Description": "JavaとかKotlinを書きます。",
+        "SNS": {
+          "Twitter": "https://twitter.com/negset",
+          "Github": "https://github.com/negset",
+          "Link": {
+            "Url": "https://negset.com/",
+            "Title": "negset.com"
+          }
+        }
+      },
+      {
+        "Name": "SIY1121",
+        "Description": "KotlinかわいいよKotlin。 プログラミングから2D/3Dグラフィック、BGM制作まで何でもやる。 "
+      },
+      {
+        "Name": "キノ子",
+        "Description": "ゼルダシリーズこそ志向。"
+      },
+      {
+        "Name": "ほんどぅー"
+      },
+      {
+        "Name": "やまの"
+      }
+    ]
+  },
+  {
+    "Year": 2017,
+    "Members": [
+      {
+        "Name": "wraikny(れいにー)",
+        "Thumbnail": "/images/wraikny_icon_2.png",
+        "Tags": ["F#", "C#", "Rust", "Elm", "Altseed", "Shader"],
+        "Description": "F#でゲームを作るバーチャル美少女クリエイター。Altseed2のRust担当。2019年代表。<br>個人サークル: [Lepus Pluvia](http://lepuspluvia.com/)",
+        "SNS": {
+          "Twitter": "https://twitter.com/wraikny",
+          "Github": "https://github.com/wraikny",
+          "Link": {
+            "Url": "https://wraikny.amebaownd.com/",
+            "Title": "wraikny's"
+          }
+        }
+      },
+      {
+        "Name": "nyannyan",
+        "Description": "まともにゲーム制作をする事が無い美少女。"
+      },
+      {
+        "Name": "zamaka",
+        "Description": "プログラム、グラフィック、サウンド等、広く浅く自作してる人間。ゲームは総合芸術。"
+      },
+      {
+        "Name": "Bunny",
+        "Description": "プログラミング初心者です。Unityばっかり触ってます。"
+      },
+      {
+        "Name": "けろちゃん",
+        "Description": "C++理解できない人。ゲーム以外のプログラムをよく書きます。"
+      },
+      {
+        "Name": "shot",
+        "Description": "プログラミング初心者。色々やっていきたいです。"
+      }
+    ]
+  },
+  {
+    "Year": 2015,
+    "Members": [
+      {
+        "Name": "wisteria",
+        "Thumbnail": "/images/futaba-chan.png",
+        "Tags": [ "C#", "Altseed", "おうち10G", "イラレ" ],
+        "Description": "ゲームの原料はC#とイラレと美味しいごはん。<br>2017年代表。<br>[foglia](https://www.foglia.moe/)",
+        "SNS": {
+          "Twitter": "https://twitter.com/wistnki",
+          "Github": "https://github.com/wistnki"
+        }
+      }
+    ]
+  },
+  {
+    "Title": "Legend",
+    "Members": [
+      {
+        "Name": "swd",
+        "Description": "AmusementCreators創設者"
+      },
+      {
+        "Name": "ナムアニクラウド",
+        "Description": "プログラムはC#を書いています"
+      },
+      {
+        "Name": "ぬるかる",
+        "Description": "きつねかわいい！"
+      },
+      {
+        "Name": "ラン",
+        "Description": "コミケ前ケツファイア駆動ゲーム開発しています。大学に入ってからプログラミング始めました"
+      },
+      {
+        "Name": "おかくろ",
+        "Description": "お米を燃やします。"
+      },
+      {
+        "Name": "リンチョク",
+        "Description": "ホルモンは面白い!!"
+      },
+      {
+        "Name": "つな",
+        "Description": "好きなものに好きな要素をくっつけたらもっと好きなものができるのでは！？"
+      },
+      {
+        "Name": "argxento",
+        "Description": "2012年入部。現役時代はC++とSTG過激派でした。今はRustと位置ゲー好き"
+      }
+    ]
+  }
+]
