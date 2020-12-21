@@ -1,0 +1,21 @@
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.3" crossorigin></script>
+
+<div id="search-app">
+  <div style="display: flex; align-items: center;">
+    <i class="fas fa-search fa-lg"></i>
+    <input
+        id="search-query"
+        v-model="word"
+        name="word"
+        type="text"
+        class="form-control input--xlarge"
+        placeholder="Search by word"
+        autofocus="autofocus"
+        style="margin-left: 10px;"
+    />
+  </div>
+  <div id="search-message"></div>
+  <div id="search-results"></div>
+</div>
+
+<script src="{{ "js/search.js" | absURL }}"></script>
