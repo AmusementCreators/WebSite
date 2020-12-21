@@ -1,0 +1,42 @@
+baseURL = "https://www.amusement-creators.info/"
+languageCode = "ja-jp"
+title = "Amusement Creators"
+theme = "ananke"
+background_color_class = "bg-white"
+featured_image = "/images/hero.png"
+hasCJKLanguage = true
+
+[blackfriday]
+hrefTargetBlank = true
+
+[params]
+  description = "筑波大学 Amusement Creators"
+  images = ["/images/logo.png"]
+  twitter = "https://twitter.com/ac_is_not_am"
+
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/about/"
+
+  [[menu.main]]
+    name = "Members"
+    identifier = "members"
+    url = "/members/"
+
+  [[menu.main]]
+    name = "News"
+    identifier = "news"
+    url = "/post/news"
+
+  [[menu.main]]
+    name = "Works"
+    identifier = "works"
+    url = "/post/works"
+
+  [[menu.main]]
+    name = "Articles"
+    identifier = "articles"
+    url = "/post/articles"
