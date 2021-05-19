@@ -37,23 +37,34 @@ hrefTargetBlank = true
     name = "About"
     identifier = "about"
     url = "/about/"
-
-  [[menu.main]]
-    name = "Members"
-    identifier = "members"
-    url = "/members/"
+    weight=1
 
   [[menu.main]]
     name = "News"
     identifier = "news"
     url = "/news"
-
-  [[menu.main]]
-    name = "Works"
-    identifier = "works"
-    url = "/works"
+    weight=2
 
   [[menu.main]]
     name = "Articles"
     identifier = "articles"
     url = "/articles"
+    weight=3
+
+  [[menu.main]]
+    name = "Works"
+    identifier = "works"
+    url = "/works"
+    weight=4
+
+  [[menu.main]]
+    name = "Members"
+    identifier = "members"
+    url = "/members/"
+    weight=5
+
+  [[menu.main]]
+    name = "Search"
+    identifier = "search"
+    url = "/search/"
+    weight=6

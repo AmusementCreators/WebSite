@@ -1,0 +1,15 @@
+{{ $.Scratch.Add "items" slice }}
+
+{{- range where (where .Site.Pages "Kind" "!=" "section") "Section" "articles" -}}
+  {{- $.Scratch.Add "items" (dict "title" .Title "date" (.Date.Format "2006.01.02") "url" .Permalink "image" .Params.featured_image "summary" .Summary "body" .Content "authors" .Params.authors "tags" .Params.tags) -}}
+{{- end -}}
+
+{{- range where (where .Site.Pages "Kind" "!=" "section") "Section" "works" -}}
+  {{- $.Scratch.Add "items" (dict "title" .Title "date" (.Date.Format "2006.01.02") "url" .Permalink "image" .Params.featured_image "summary" .Summary "body" .Content "authors" .Params.authors "tags" .Params.tags) -}}
+{{- end -}}
+
+{{- range where (where .Site.Pages "Kind" "!=" "section") "Section" "news" -}}
+  {{- $.Scratch.Add "items" (dict "title" .Title "date" (.Date.Format "2006.01.02") "url" .Permalink "image" .Params.featured_image "summary" .Summary "body" .Content "authors" .Params.authors "tags" .Params.tags) -}}
+{{- end -}}
+
+{{ $.Scratch.Get "items" | jsonify }}
