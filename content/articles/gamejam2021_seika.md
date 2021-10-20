@@ -9,7 +9,7 @@ description = "雙峰祭用に展示しているゲーム記事です"
 +++
 
 # 雙峰祭ゲーム展示企画
-こんにちは！AmusementCreatorsです！  
+こんにちは！AmusementCreatorsです！！  
 AmusementCreatorsメンバーが作成したPC用ゲームを展示しています！！  
 どの作品もダウンロードして遊ぶことができますので、気軽にプレイしてみてください！！
 # ダウンロード
