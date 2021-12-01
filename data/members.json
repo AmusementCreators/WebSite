@@ -38,7 +38,6 @@
           "Twitter":"https://twitter.com/admiraVRC"
          }
       }
-
     ]
   },
   {
@@ -68,7 +67,7 @@
         "Tags": [ "CSharp" ],
         "Description": "プログラミング歴半年 最近ボドゲ宣教師と化している",
         "SNS":  {
-          "Twitter": "https://twitter.com/Tamu0728r"     
+          "Twitter": "https://twitter.com/Tamu0728r"
         }
       },
       {
@@ -219,10 +218,6 @@
         }
       },
       {
-        "Name": "nyannyan",
-        "Description": "まともにゲーム制作をする事が無い美少女。"
-      },
-      {
         "Name": "zamaka",
         "Thumbnail": "/images/members/zamaka_icon.png",
         "Tags": ["CSharp", "Altseed", "CLIP STUDIO PAINT", "Blender", "Domino"],
@@ -244,21 +239,6 @@
         "Name": "shot",
         "Tags": ["CSharp", "Unity"],
         "Description": "気が向いたときにゲームを作る。デザインパターンをすこれ"
-      }
-    ]
-  },
-  {
-    "Year": 2015,
-    "Members": [
-      {
-        "Name": "wistnki",
-        "Thumbnail": "/images/members/futaba-chan.png",
-        "Tags": [ "CSharp", "Altseed", "おうち10G", "イラレ" ],
-        "Description": "ゲームの原料はC#とイラレと美味しいごはん。<br>2017年代表。<br>[foglia](https://www.foglia.moe/)",
-        "SNS": {
-          "Twitter": "https://twitter.com/wistnki",
-          "Github": "https://github.com/wistnki"
-        }
       }
     ]
   },
@@ -296,6 +276,20 @@
       {
         "Name": "argxento",
         "Description": "2012年入部。現役時代はC++とSTG過激派でした。今はRustと位置ゲー好き"
+      },
+      {
+        "Name": "wistnki",
+        "Thumbnail": "/images/members/futaba-chan.png",
+        "Tags": [ "CSharp", "Altseed", "おうち10G", "イラレ" ],
+        "Description": "ゲームの原料はC#とイラレと美味しいごはん。<br>2017年代表。<br>[foglia](https://www.foglia.moe/)",
+        "SNS": {
+          "Twitter": "https://twitter.com/wistnki",
+          "Github": "https://github.com/wistnki"
+        }
+      },
+      {
+        "Name": "nyannyan",
+        "Description": "まともにゲーム制作をする事が無い美少女。"
       }
     ]
   }
