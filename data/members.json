@@ -1,5 +1,18 @@
 [
   {
+    "Year": 2021,
+    "Members": [
+      {
+        "Name": "ナガオカ",
+        "Tags": [ "Altseed" ],
+        "Thumbnail": "/images/members/nagaoka.png",
+        "Description": "＃ボードゲームが好きです",
+        "SNS": {
+          "やってません"
+        },
+    ]
+  },
+  {
     "Year": 2020,
     "Members": [
       {
