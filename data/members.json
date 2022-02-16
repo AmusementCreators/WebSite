@@ -7,7 +7,14 @@
         "Tags": [ "Altseed" ],
         "Thumbnail": "/images/members/nagaoka.png",
         "Description": "**ボードゲーム**が好きです  情報科学類では珍しく(?)SNSをやっていません"
+      },
+      {
+        "Name":"abes",
+        "Tags": ["Unity"],
+        "Thumbnail":"",
+        "Description":"頑張ってC#を書いています。ゲームAIに興味。プログラミングなんもわからんって時、ソースコードを実行して生成されたソースコード(Str型)を実行するみたいな超パワー型のコード考えるよね",
       }
+      
     ]
   },
   {
