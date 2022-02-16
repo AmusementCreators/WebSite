@@ -1,5 +1,18 @@
 [
   {
+    "Year": 2021,
+    "Members": [
+      {
+        "Name":"AS",
+        "Tags": ["Altseed2", "CSharp"],
+        "Description":"ゲーム作りは難しいなあ",
+        "SNS": {
+          "Twitter":"https://twitter.com/AS_for_game"
+        }
+      }
+    ]
+  }
+  {
     "Year": 2020,
     "Members": [
       {
