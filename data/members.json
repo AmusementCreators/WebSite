@@ -22,6 +22,11 @@
             "Twitter": "https://twitter.com/uwe_silver/",
             "Github": "https://github.com/UweSilver"
           }
+        },
+        {
+          "Name":"abes",
+          "Tags": ["Unity"],
+          "Description":"頑張ってC#を書いています。ゲームAIに興味。プログラミングなんもわからんって時、ソースコードを実行して生成されたソースコード(Str型)を実行するみたいな超パワー型のコード考えるよね"
         }
     ]
   },
