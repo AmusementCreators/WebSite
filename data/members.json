@@ -2,22 +2,27 @@
   {
     "Year": 2021,
     "Members": [
-      {
-        "Name": "ナガオカ",
-        "Tags": [ "Altseed" ],
-        "Thumbnail": "/images/members/nagaoka.png",
-        "Description": "**ボードゲーム**が好きです  情報科学類では珍しく(?)SNSをやっていません"
-      },
-      {
-        "Name":"Uwe",
-        "Tags":["Altseed", "Unity", "Csharp"],
-        "Thumbnail": "/images/members/uwe_icon.png",
-        "Description": "c++から逃げ続けてはや1年",
-        "SNS": {
-          "Twitter": "https://twitter.com/uwe_silver/",
-          "Github": "https://github.com/UweSilver"
+        {
+            "Name": "ナガオカ",
+            "Tags": [ "Altseed" ],
+            "Thumbnail": "/images/members/nagaoka.png",
+            "Description": "**ボードゲーム**が好きです  情報科学類では珍しく(?)SNSをやっていません"
+        },
+        {
+            "Name": "ネコ",
+            "Thumbnail": "/images/members/Neko.jpg",
+            "Description": "なにもわからない"
+        },
+        {
+          "Name":"Uwe",
+          "Tags":["Altseed", "Unity", "Csharp"],
+          "Thumbnail": "/images/members/uwe_icon.png",
+          "Description": "c++から逃げ続けてはや1年",
+          "SNS": {
+            "Twitter": "https://twitter.com/uwe_silver/",
+            "Github": "https://github.com/UweSilver"
+          }
         }
-      }
     ]
   },
   {
