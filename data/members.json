@@ -2,19 +2,39 @@
   {
     "Year": 2021,
     "Members": [
-      {
-        "Name": "ナガオカ",
-        "Tags": [ "Altseed" ],
-        "Thumbnail": "/images/members/nagaoka.png",
-        "Description": "**ボードゲーム**が好きです  情報科学類では珍しく(?)SNSをやっていません"
-      },
-      {
-        "Name": "AS",
-        "Tags": [ "Altseed", "CSharp", "" ],
-        "Description": "ゲーム作りは難しいなあ. なんだかなあ.",
-        "SNS": {
-          "Twitter": "https://twitter.com/AS_for_game"
-        }
+        {
+            "Name": "ナガオカ",
+            "Tags": [ "Altseed" ],
+            "Thumbnail": "/images/members/nagaoka.png",
+            "Description": "**ボードゲーム**が好きです  情報科学類では珍しく(?)SNSをやっていません"
+        },
+        {
+            "Name": "ネコ",
+            "Thumbnail": "/images/members/Neko.jpg",
+            "Description": "なにもわからない"
+        },
+        {
+          "Name":"Uwe",
+          "Tags":["Altseed", "Unity", "Csharp"],
+          "Thumbnail": "/images/members/uwe_icon.png",
+          "Description": "c++から逃げ続けてはや1年",
+          "SNS": {
+            "Twitter": "https://twitter.com/uwe_silver/",
+            "Github": "https://github.com/UweSilver"
+          }
+        },
+        {
+          "Name":"abes",
+          "Tags": ["Unity"],
+          "Description":"頑張ってC#を書いています。ゲームAIに興味。プログラミングなんもわからんって時、ソースコードを実行して生成されたソースコード(Str型)を実行するみたいな超パワー型のコード考えるよね"
+        },
+        {
+          "Name": "AS",
+          "Tags": [ "Altseed", "CSharp", "" ],
+          "Description": "ゲーム作りは難しいなあ. なんだかなあ.",
+          "SNS": {
+            "Twitter": "https://twitter.com/AS_for_game"
+          }
       }
     ]
   },
