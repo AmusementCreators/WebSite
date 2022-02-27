@@ -25,8 +25,9 @@
         },
         {
           "Name":"abes",
-          "Tags": ["Unity"],
-          "Description":"頑張ってC#を書いています。ゲームAIに興味。プログラミングなんもわからんって時、ソースコードを実行して生成されたソースコード(Str型)を実行するみたいな超パワー型のコード考えるよね"
+          "Tags": ["Unity","Csharp"],
+          "Thumbnail": "/images/members/abes_icon.JPG",
+          "Description":"泣きながらクソコードを生成している。"
         },
         {
           "Name": "AS",
