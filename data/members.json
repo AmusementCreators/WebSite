@@ -35,7 +35,12 @@
           "SNS": {
             "Twitter": "https://twitter.com/AS_for_game"
           }
-      }
+        },
+        {
+          "Name":"Heart",
+          "Tags":["Unity","CSharp"],
+          "Description":"RPGやARPGを主に作っています。"
+        }
     ]
   },
   {
