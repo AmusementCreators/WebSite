@@ -54,25 +54,6 @@
         "Name": "Heart",
         "Tags": [ "Unity", "CSharp" ],
         "Description": "RPGやARPGを主に作っています。"
-        }
-      },
-      {
-        "Name": "abes",
-        "Tags": [ "Unity" ],
-        "Description": "頑張ってC#を書いています。ゲームAIに興味。プログラミングなんもわからんって時、ソースコードを実行して生成されたソースコード(Str型)を実行するみたいな超パワー型のコード考えるよね"
-      },
-      {
-        "Name": "AS",
-        "Tags": [ "Altseed", "CSharp", "" ],
-        "Description": "ゲーム作りは難しいなあ. なんだかなあ.",
-        "SNS": {
-          "Twitter": "https://twitter.com/AS_for_game"
-        }
-      },
-      {
-        "Name": "Heart",
-        "Tags": [ "Unity", "CSharp" ],
-        "Description": "RPGやARPGを主に作っています。"
       },
       {
         "Name": "kyo",
