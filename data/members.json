@@ -1,86 +1,100 @@
 [
   {
+    "Year": 2022,
+    "Members": [
+      {
+        "Name": "Sengankou",
+        "Thumbnail": "/images/sengankou.jpg",
+        "Tags": [ "C++", "Python", "イラスト" ],
+        "Description": "Blender, C#は勉強中。イラストを少し描きます。",
+        "SNS": {
+          "Twitter": "https://twitter.com/sgk_qazan",
+          }
+      }
+    ]
+  },
+  {
     "Year": 2021,
     "Members": [
-        {
-            "Name": "ナガオカ",
-            "Tags": [ "Altseed" ],
-            "Thumbnail": "/images/members/nagaoka.png",
-            "Description": "**ボードゲーム**が好きです<br>情報科学類では珍しく(?)SNSをやっていません"
-        },
-        {
-            "Name": "ネコ",
-            "Thumbnail": "/images/members/Neko.jpg",
-            "Description": "なにもわからない"
-        },
-        {
-          "Name":"Uwe",
-          "Tags":["Altseed", "Unity", "Csharp"],
-          "Thumbnail": "/images/members/uwe_icon.png",
-          "Description": "c++から逃げ続けてはや1年",
-          "SNS": {
-            "Twitter": "https://twitter.com/uwe_silver/",
-            "Github": "https://github.com/UweSilver"
-          }
-        },
-        {
-          "Name":"abes",
-          "Tags": ["Unity"],
-          "Description":"頑張ってC#を書いています。ゲームAIに興味。プログラミングなんもわからんって時、ソースコードを実行して生成されたソースコード(Str型)を実行するみたいな超パワー型のコード考えるよね"
-        },
-        {
-          "Name": "AS",
-          "Tags": [ "Altseed", "CSharp", "" ],
-          "Description": "ゲーム作りは難しいなあ. なんだかなあ.",
-          "SNS": {
-            "Twitter": "https://twitter.com/AS_for_game"
-          }
-        },
-        {
-          "Name":"Heart",
-          "Tags":["Unity","CSharp"],
-          "Description":"RPGやARPGを主に作っています。"
+      {
+        "Name": "ナガオカ",
+        "Tags": [ "Altseed" ],
+        "Thumbnail": "/images/members/nagaoka.png",
+        "Description": "**ボードゲーム**が好きです<br>情報科学類では珍しく(?)SNSをやっていません"
+      },
+      {
+        "Name": "ネコ",
+        "Thumbnail": "/images/members/Neko.jpg",
+        "Description": "なにもわからない"
+      },
+      {
+        "Name": "Uwe",
+        "Tags": [ "Altseed", "Unity", "Csharp" ],
+        "Thumbnail": "/images/members/uwe_icon.png",
+        "Description": "c++から逃げ続けてはや1年",
+        "SNS": {
+          "Twitter": "https://twitter.com/uwe_silver/",
+          "Github": "https://github.com/UweSilver"
         }
+      },
+      {
+        "Name": "abes",
+        "Tags": [ "Unity" ],
+        "Description": "頑張ってC#を書いています。ゲームAIに興味。プログラミングなんもわからんって時、ソースコードを実行して生成されたソースコード(Str型)を実行するみたいな超パワー型のコード考えるよね"
+      },
+      {
+        "Name": "AS",
+        "Tags": [ "Altseed", "CSharp", "" ],
+        "Description": "ゲーム作りは難しいなあ. なんだかなあ.",
+        "SNS": {
+          "Twitter": "https://twitter.com/AS_for_game"
+        }
+      },
+      {
+        "Name": "Heart",
+        "Tags": [ "Unity", "CSharp" ],
+        "Description": "RPGやARPGを主に作っています。"
+      }
     ]
   },
   {
     "Year": 2020,
     "Members": [
       {
-        "Name":"コイケ",
-        "Tags": ["CSharp", "Unity", "ドット絵"],
-        "Thumbnail":"/images/members/RintaroKoike.png",
-        "Description":"ゲームプランナーなりたいなあ",
+        "Name": "コイケ",
+        "Tags": [ "CSharp", "Unity", "ドット絵" ],
+        "Thumbnail": "/images/members/RintaroKoike.png",
+        "Description": "ゲームプランナーなりたいなあ",
         "SNS": {
-          "Twitter":"https://twitter.com/IhatovCopan2000"
+          "Twitter": "https://twitter.com/IhatovCopan2000"
         }
       },
       {
-        "Name":"Wisteria",
-        "Tags": ["Unity", "競プロ"],
-        "Thumbnail":"/images/members/wisteria3hen.jpg",
-        "Description":"ここに書くこと募集中",
+        "Name": "Wisteria",
+        "Tags": [ "Unity", "競プロ" ],
+        "Thumbnail": "/images/members/wisteria3hen.jpg",
+        "Description": "ここに書くこと募集中",
         "SNS": {
-          "Twitter":"https://twitter.com/goethe_kafka"
+          "Twitter": "https://twitter.com/goethe_kafka"
         }
       },
       {
-        "Name":"ご。",
-        "Tags": ["Csharp"],
-        "Thumbnail":"/images/members/go_icon.jpg",
-        "Description":"ゲームをするかラーメンを食べるかをしたい",
+        "Name": "ご。",
+        "Tags": [ "Csharp" ],
+        "Thumbnail": "/images/members/go_icon.jpg",
+        "Description": "ゲームをするかラーメンを食べるかをしたい",
         "SNS": {
-          "Twitter":"https://twitter.com/tsuGooji"
+          "Twitter": "https://twitter.com/tsuGooji"
         }
       },
-        {
-        "Name":"ad_mira",
-        "Tags": ["Unity", "blender"],
-        "Thumbnail":"/images/members/nozoki.jpg",
-        "Description":"ケモミミ黒髪羽っこ美少女の比較文化生です",
+      {
+        "Name": "ad_mira",
+        "Tags": [ "Unity", "blender" ],
+        "Thumbnail": "/images/members/nozoki.jpg",
+        "Description": "ケモミミ黒髪羽っこ美少女の比較文化生です",
         "SNS": {
-          "Twitter":"https://twitter.com/admiraVRC"
-         }
+          "Twitter": "https://twitter.com/admiraVRC"
+        }
       }
     ]
   },
@@ -88,21 +102,21 @@
     "Year": 2019,
     "Members": [
       {
-        "Name":"MOMO",
-        "Tags": ["C++"],
-        "Description":"Ue4でなんかつくる予定",
+        "Name": "MOMO",
+        "Tags": [ "C++" ],
+        "Description": "Ue4でなんかつくる予定",
         "SNS": {
-          "Twitter":"https://twitter.com/momo_eater1"
+          "Twitter": "https://twitter.com/momo_eater1"
         }
       },
       {
         "Name": "まめプロ",
-        "Tags": ["CSharp"],
-        "Thumbnail":"/images/members/noom.jpg",
+        "Tags": [ "CSharp" ],
+        "Thumbnail": "/images/members/noom.jpg",
         "Description": "プログラミングよわよわ。とりあえず毎日コード書きます",
         "SNS": {
-          "Twitter":"https://twitter.com/mamepuro0540",
-          "Github":"https://github.com/mamepuro"
+          "Twitter": "https://twitter.com/mamepuro0540",
+          "Github": "https://github.com/mamepuro"
         }
       },
       {
@@ -110,18 +124,18 @@
         "Thumbnail": "/images/members/Tamu.jpg",
         "Tags": [ "CSharp" ],
         "Description": "プログラミング歴半年 最近ボドゲ宣教師と化している",
-        "SNS":  {
+        "SNS": {
           "Twitter": "https://twitter.com/Tamu0728r"
         }
       },
       {
         "Name": "Funny_Silkie",
-        "Tags" :  ["CSharp", "Altseed"],
-        "Thumbnail":"/images/members/Funny_Silkie.png",
+        "Tags": [ "CSharp", "Altseed" ],
+        "Thumbnail": "/images/members/Funny_Silkie.png",
         "Description": "情報でも理工でもなく生物専攻の人。<br>Alseed2開発に只管尽力。リソースを作れるようにならねばと日々思っています。",
         "SNS": {
-            "Twitter": "https://twitter.com/Funny_Silkie",
-            "Github": "https://github.com/Funny-Silkie"
+          "Twitter": "https://twitter.com/Funny_Silkie",
+          "Github": "https://github.com/Funny-Silkie"
         }
       },
       {
@@ -136,9 +150,9 @@
       {
         "Name": "kinoko",
         "Thumbnail": "/images/members/kinoko_19.png",
-        "Tags": ["Godot", "Blender"],
-        "Description":"Blender使えます。Godot Engine布教者。",
-        "SNS":{
+        "Tags": [ "Godot", "Blender" ],
+        "Description": "Blender使えます。Godot Engine布教者。",
+        "SNS": {
           "Twitter": "https://twitter.com/kinoko_ver2"
         }
       }
@@ -230,7 +244,7 @@
       {
         "Name": "ほんどぅー",
         "Thumbnail": "/images/honDo.jpg",
-        "Tags": ["くりすた", "SpriteSutudio", "C++","ガンギマリ同好会" ],
+        "Tags": [ "くりすた", "SpriteSutudio", "C++", "ガンギマリ同好会" ],
         "Description": "笑いのツボがとても浅い人間。特定の人間には特に抗体がない模様。Amcrげら担当。",
         "SNS": {
           "Twitter": "https://https://twitter.com/welt_meister_",
@@ -240,7 +254,7 @@
       {
         "Name": "やまの",
         "Thumbnail": "/images/members/yamano_icon.png",
-        "Tags": ["CSharp","JavaScript"],
+        "Tags": [ "CSharp", "JavaScript" ],
         "Description": "CLANNADとFINAL FANTASYをこよなく愛す転生した人です。",
         "SNS": {
           "Twitter": "https://twitter.com/nbz_ff15",
@@ -255,7 +269,7 @@
       {
         "Name": "wraikny",
         "Thumbnail": "/images/members/wraikny_icon.jpg",
-        "Tags": ["FSharp", "CSharp", "Rust", "Altseed", "Shader"],
+        "Tags": [ "FSharp", "CSharp", "Rust", "Altseed", "Shader" ],
         "Description": "F#はいいぞ。CGとかゲームAIとか自動生成とか関数型言語とかに興味。<br>2019年代表。",
         "SNS": {
           "Github": "https://github.com/wraikny"
@@ -264,7 +278,7 @@
       {
         "Name": "zamaka",
         "Thumbnail": "/images/members/zamaka_icon.png",
-        "Tags": ["CSharp", "Altseed", "CLIP STUDIO PAINT", "Blender", "Domino"],
+        "Tags": [ "CSharp", "Altseed", "CLIP STUDIO PAINT", "Blender", "Domino" ],
         "Description": "ゲームは総合芸術。リソースは自作するもの。<br>プログラム、イラスト、ドット絵、3Dモデリング、作曲、録音まで、広く深くが目標。",
         "SNS": {
           "Twitter": "https://twitter.com/zamaka9",
@@ -281,7 +295,7 @@
       },
       {
         "Name": "shot",
-        "Tags": ["CSharp", "Unity"],
+        "Tags": [ "CSharp", "Unity" ],
         "Description": "気が向いたときにゲームを作る。デザインパターンをすこれ"
       }
     ]
