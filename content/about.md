@@ -13,12 +13,18 @@ Amusement Creatorsは2008年より筑波大学で活動している一般学生�
 ## ミーティング
 毎週水曜日18:30から、情報科学類ラウンジ(3C213)で行っています。
 
-現在は密を避けるため、Discordサーバーにて通話で行っています。
-以下のリンクから参加することができます。
+~~現在は密を避けるため、Discordサーバーにて通話で行っています。
+以下のリンクから参加することができます。~~
+
+追記[2022/10/22] : 現在は情報科学類ラウンジでの対面ミーティングを再開しています。
+以下のDiscordサーバーでは対面ミーティングの様子を聞くことができるようにしています。
 
 [AmusementCreatorsShinkan - Discord招待リンク](https://discord.com/invite/ZqeEKMs8FC)
 
+
+
 ## 活動
+
 - ゲーム開発
    - [Altseed](https://altseed.github.io), Unity, Godot等
 - ゲームエンジン開発
@@ -37,7 +43,7 @@ Amusement Creatorsは2008年より筑波大学で活動している一般学生�
 
 ## イベント
 
-- ゴールデンウィーク48時間ゲームジャム(短期開発) <!-- [ゴールデンウィーク48時間ゲームジャム(短期開発)](/tags/ゲームジャム) -->
+- [ゴールデンウィーク48時間ゲームジャム(短期開発)](/tags/ゲームジャム)
 - 夏休み一週間ゲームジャム・夏休み合宿 (年によります)
 - 春休み一週間ゲームジャム
 
@@ -61,10 +67,12 @@ Amusement Creatorsは2008年より筑波大学で活動している一般学生�
 また、略称がACになるのは筑波大学のAC入試とかけています。
 
 ## メンバー募集
-メンバーは随時募集中です。興味のある方はTwitterやメールからご連絡ください。
+メンバーは随時募集中です。興味のある方はTwitterやメール、Discordからご連絡ください。
 
 また、毎年4月には新歓を行っております。
 
 ## コンタクト
+
 - Twitter: [@ac_is_not_am](https://twitter.com/ac_is_not_am)
 - GMail: amusementcreators@~
+- Discord: [AmusementCreatorsShinkan](https://discord.com/invite/ZqeEKMs8FC)
