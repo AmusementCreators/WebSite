@@ -1,5 +1,19 @@
 [
   {
+    "Year": 2023,
+    "Members": [
+      {
+        "Name": "みやま",
+        "Thumbnail": "/images/members/koma.png",
+        "Tags": [ "イラスト", "ClipStagio" ], 
+        "Description": "シナリオゲームが好きです。分からないことだらけで勉強できるのが楽しいです！",
+        "SNS": {
+          "Twitter": "https://twitter.com/tsubusa_"
+        }
+      }
+    ]
+  },
+  {
     "Year": 2022,
     "Members": [
       {
