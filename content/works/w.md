@@ -2,7 +2,7 @@
 title = "W"
 date = 2024-10-07T00:00:00+09:00
 draft = false
-tags = ["game","action","rogue-like"]
+tags = ["game","公開中","action","rogue-like"]
 authors = ["Meikumo"]
 +++
 {{<youtube UsjRuwYzFxc>}}
