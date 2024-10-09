@@ -4,6 +4,7 @@ date = 2024-10-07T00:00:00+09:00
 draft = false
 tags = ["game","action","rogue-like"]
 authors = ["Meikumo"]
+thumbnail= "/images/works/model-z/modelz0.gif"
 +++
 
 {{<youtube fO05kv9t0No>}}

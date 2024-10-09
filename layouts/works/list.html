@@ -12,6 +12,8 @@
           {{/*
           Note we can use `.Render` here for items just in this section, instead of a partial to pull in items for the list page. https://gohugo.io/functions/render/
           */}}
+          <img src="{{ .Params.thumbnail }}" class="db w-100 mb3">
+          {{- partial "tags.html" . -}}
           {{ partial "summary.html" . }}
         </div>
       {{ end }}
