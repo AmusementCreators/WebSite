@@ -5,6 +5,7 @@ draft = false
 tags = ["game","rpg","action"]
 authors = ["Heart"]
 featured_image = "/images/works/seven-monsters/boss.png"
+thumbnail= "/images/works/seven-monsters/boss.png"
 +++
 
 {{<youtube CbRoZiwKLWg>}}

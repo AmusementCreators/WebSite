@@ -5,6 +5,7 @@ draft = false
 tags = ["game","公開中","visual-nobel"]
 authors = ["みやま"]
 featured_image = "/images/works/junjo-heart-link/thumbnail.png"
+thumbnail= "/images/works/junjo-heart-link/title.png"
 +++
 ![image](/images/works/junjo-heart-link/thumbnail.png)
 [ブラウザで遊ぶ](https://novelgame.jp/games/show/9649?fes=1)
