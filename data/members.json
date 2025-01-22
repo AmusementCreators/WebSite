@@ -1,5 +1,18 @@
 [
   {
+    "Year": 2024,
+    "Members": [
+      {
+        "Name": "かずき",
+        "Thumbnail": "/images/members/IMG_9518.jpeg",
+        "Tags": ["Python","Unity" ], 
+        "Description": "2DのRPGが好きです。人に新鮮な感動を与えられるゲームを作りたいです！！"
+    
+      }
+
+    ]
+  },
+  {
     "Year": 2023,
     "Members": [
       {
