@@ -5,7 +5,7 @@ draft = false
 tags = ["game","公開中","action"]
 authors = ["ご。"]
 featured_image = "/images/works/takarabako-atsume/play0.png"
-thumbnail= "/images/works/takarabako-atsume/play0.png"
+thumbnail= "/images/works/takarabako-atsume/play0 (小).png"
 +++
 ![image](/images/works/takarabako-atsume/title.png)
 [ブラウザで遊ぶ](https://unityroom.com/games/takarabako-atsume)

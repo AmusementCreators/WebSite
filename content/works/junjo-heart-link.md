@@ -4,7 +4,7 @@ date = 2024-10-07T00:00:00+09:00
 draft = false
 tags = ["game","公開中","visual-nobel"]
 authors = ["みやま"]
-featured_image = "/images/works/junjo-heart-link/thumbnail.png"
+featured_image = "/images/works/junjo-heart-link/thumbnail (小).png"
 thumbnail= "/images/works/junjo-heart-link/title.png"
 +++
 ![image](/images/works/junjo-heart-link/thumbnail.png)
