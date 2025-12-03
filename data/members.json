@@ -9,13 +9,16 @@
       },
       {
         "Name": "スズキ",
+
         "Thumbnail": "/images/members/suzuki.png",
         "Description": "ゲームが好きです。\nプログラミング面白いです。",
         "Tags": ["Unity"]
       },
       {
         "Name": "にゐつ(Nietz)",
+
         "Thumbnail": "/images/members/nietz.png",
+
         "Description": "趣味でゲーム作るひと。\n期待はしない方がよさそう。",
         "Tags": ["Unity", "Python", "MSX"]
       }
