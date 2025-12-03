@@ -3,7 +3,21 @@
     "Year": 2025,
     "Members": [
       {
-        "Name": "ライト"
+        "Name": "ライト",
+        "Description": "低レベル制御と堅牢な設計が大好き。\n言語制作もしている。",
+        "Tags": ["C++", "Rust", "Java", "Python"]
+      },
+      {
+        "Name": "スズキ",
+        "Thumbnail": "/images/members/suzuki.jpeg",
+        "Description": "ゲームが好きです。\nプログラミング面白いです。",
+        "Tags": ["Unity"]
+      },
+      {
+        "Name": "にゐつ(Nietz)",
+        "Thumbnail": "/images/members/nietz.jpeg",
+        "Description": "趣味でゲーム作るひと。\n期待はしない方がよさそう。",
+        "Tags": ["Unity", "Python", "MSX"]
       }
     ]
   },
@@ -15,6 +29,18 @@
         "Thumbnail": "/images/members/IMG_9518.jpeg",
         "Tags": ["Python","Unity" ], 
         "Description": "2DのRPGが好きです。人に新鮮な感動を与えられるゲームを作りたいです！！"
+    
+      },
+      {
+        "Name": "tori",
+        "Description": "project Moonのゲームに脳を焼かれています。"
+    
+      },
+      {
+        "Name": "muzui",
+        "Thumbnail": "/images/members/muzui.jpeg",
+        "Tags": ["Csharp"], 
+        "Description": "スーパーモンスター・ウォーヘッド・ファンタジータウンシップ・ヘビーインダストリー・リバーシティ"
     
       }
 
