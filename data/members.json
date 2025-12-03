@@ -9,13 +9,16 @@
       },
       {
         "Name": "スズキ",
-        "Thumbnail": "/images/members/suzuki.jpeg",
+
+        "Thumbnail": "/images/members/suzuki.png",
         "Description": "ゲームが好きです。\nプログラミング面白いです。",
         "Tags": ["Unity"]
       },
       {
         "Name": "にゐつ(Nietz)",
-        "Thumbnail": "/images/members/nietz.jpeg",
+
+        "Thumbnail": "/images/members/nietz.png",
+
         "Description": "趣味でゲーム作るひと。\n期待はしない方がよさそう。",
         "Tags": ["Unity", "Python", "MSX"]
       }
@@ -38,7 +41,7 @@
       },
       {
         "Name": "muzui",
-        "Thumbnail": "/images/members/muzui.jpeg",
+        "Thumbnail": "/images/members/muzui.png",
         "Tags": ["Csharp"], 
         "Description": "スーパーモンスター・ウォーヘッド・ファンタジータウンシップ・ヘビーインダストリー・リバーシティ"
     
