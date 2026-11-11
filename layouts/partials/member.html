@@ -18,20 +18,26 @@
     <div class="socials">
         {{ with .SNS.Twitter }}
         <a href="{{ . }}" target="_blank" class="link-transition twitter link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
+          {{/*
           {{ partial "svg/twitter.svg" (dict "size" $icon_size) }}
           {{- partial "new-window-icon.html" . -}}
+          */}}
         </a>
         {{ end }}
         {{ with .SNS.Github }}
           <a href="{{ . }}" target="_blank" class="link-transition github link dib z-999 pt3 pt0-l mr1" title="Github link" rel="noopener" aria-label="follow on Github——Opens in a new window">
+            {{/*
             {{ partial "svg/github.svg" (dict "size" $icon_size) }}
             {{- partial "new-window-icon.html" . -}}
+            */}}
           </a>
         {{ end }}
         {{ with .SNS.Link }}
           <a href="{{ .Url }}" target="_blank" class="link-transition link-external link dib z-999 pt3 pt0-l mr1" title="{{ .Title }}" rel="noopener" aria-label="リンク: {{ .Title }}">
+            {{/*
             {{ partial "svg/link.svg" (dict "size" $icon_size) }}
             {{- partial "new-window-icon.html" . -}}
+            */}}
           </a>
         {{ end }}
     </div>

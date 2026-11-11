@@ -21,6 +21,12 @@
 
         "Description": "趣味でゲーム作るひと。\n期待はしない方がよさそう。",
         "Tags": ["Unity", "Python", "MSX"]
+      },
+      {
+        "Name": "外川 始",
+        "Thumbnail": "/images/members/2025-4.jpg",
+        "Description": "私だ！外川始だ！とにかく好きなゲームを作って遊びたい！遊ばせたい！そんな人だ！",
+        "Tags": ["Unity", "C#", "Python"]
       }
     ]
   },
