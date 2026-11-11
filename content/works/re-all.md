@@ -4,7 +4,10 @@ date = 2026-11-02T00:00:00+09:00
 draft = false
 tags = ["game","公開中","rogue-like"]
 authors = ["muzui"]
+featured_image = "/images/works/re-all/play.gif"
+thumbnail = "/images/works/re-all/play.gif"
 +++
+![image](/images/works/re-all/play.gif)
 [ブラウザで遊ぶ](https://unityroom.com/games/re-all)
 # 概要
 武器をぶん回して全部をぶん回せ！ 超リロール系ローグライクハクスラアクション！
