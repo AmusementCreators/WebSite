@@ -27,6 +27,12 @@
         "Thumbnail": "/images/members/2025-4.jpg",
         "Description": "私だ！外川始だ！とにかく好きなゲームを作って遊びたい！遊ばせたい！そんな人だ！",
         "Tags": ["Unity", "C#", "Python"]
+      },
+      {
+        "Name": "袴田",
+        "Thumbnail": "/images/members/hakam_web.jpg",
+        "Description": "トルネードアタック！ 3年次編入",
+        "Tags": ["C#", "C++", "Unity", "Blender"]
       }
     ]
   },
