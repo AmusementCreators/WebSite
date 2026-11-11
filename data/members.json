@@ -1,5 +1,16 @@
 [
   {
+    "Year": 2026,
+    "Members": [
+      {
+        "Name": "おが",
+        "Thumbnail": "/images/members/oga.png",
+        "Description": "3年次編入その2\n 車輪の再発明したいがち",
+        "Tags": ["Unity", "Python"]
+      }
+    ]
+  },
+  {
     "Year": 2025,
     "Members": [
       {
