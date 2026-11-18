@@ -5,6 +5,7 @@ draft = false
 tags = ["言語制作"]
 description = "初心者が言語制作に手を出して学んだこと"
 aliases = []
+authors = ["ライト"]
 +++
 
 # 超簡単! スタックマシンを作ろう!
