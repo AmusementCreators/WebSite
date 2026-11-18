@@ -7,7 +7,9 @@
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      {{ .Summary  }}
-    </div>
+      {{ with .Params.description }}
+        <p>{{ . | emojify }}</p>
+      {{ end }}
+      </div>
   </div>
 </div>
