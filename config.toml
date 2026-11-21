@@ -27,6 +27,13 @@ enableEmoji = true
     hrefTargetBlank = true
     # 昔の記事のHTML埋め込み（YouTube等）を許可する
     unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        # KaTeX 用の文字列保護の設定
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
   [markup.highlight]
     # コードにハイライトを適用（旧pygmentsの移行）
     codeFences = true
