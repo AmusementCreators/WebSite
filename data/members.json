@@ -7,9 +7,15 @@
         "Thumbnail": "/images/members/oga.png",
         "Description": "3年次編入その2\n 車輪の再発明したいがち",
         "Tags": ["Unity", "Python"]
+      },
+      {
+        "Name": "kandes",
+        "Thumbnail": "/images/members/kandes_icon.png",
+        "Description": "任天堂のゲームが好きです",
+        "Tags": ["Unity", "C#", "Python"]
       }
     ]
-  },
+  }, 
   {
     "Year": 2025,
     "Members": [
